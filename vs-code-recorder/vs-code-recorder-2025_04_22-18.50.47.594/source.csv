@@ -1,0 +1,3 @@
+Sequence,Time,File,RangeOffset,RangeLength,Text,Language,Type
+1,9,"exercises/easy/ex1-hello-world.js",0,0,"function helloWorld() {\n  // write a function that prints ""Hello World!"" to the console\n}\n\nmodule.exports = helloWorld;\n",javascript,tab
+2,71786,"extension-output-MattiaConsiglio.vs-code-recorder-#1-VS Code Recorder",0,0,"6:48:43 PM [info] Activating VS Code Recorder\n6:50:47 PM [info] Recording started\n",Log,tab

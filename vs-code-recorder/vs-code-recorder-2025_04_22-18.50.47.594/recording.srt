@@ -1,0 +1,8 @@
+1
+00:00:00,009 --> 00:01:11,786
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+2
+00:01:11,786 --> 00:01:27,765
+{"text":"6:48:43 PM [info] Activating VS Code Recorder\n6:50:47 PM [info] Recording started\n","file":"extension-output-MattiaConsiglio.vs-code-recorder-#1-VS Code Recorder","language":"Log"}
+

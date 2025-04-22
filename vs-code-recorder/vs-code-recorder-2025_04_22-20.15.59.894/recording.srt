@@ -1,0 +1,1076 @@
+1
+00:00:00,012 --> 00:00:08,065
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  \n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+2
+00:00:08,065 --> 00:00:08,120
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  p\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+3
+00:00:08,120 --> 00:00:08,298
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  pr\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+4
+00:00:08,298 --> 00:00:08,528
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  pri\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+5
+00:00:08,528 --> 00:00:08,734
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  prin\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+6
+00:00:08,734 --> 00:00:09,897
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+7
+00:00:09,897 --> 00:00:09,901
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+8
+00:00:09,901 --> 00:00:10,622
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print()\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+9
+00:00:10,622 --> 00:00:10,838
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(:)\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+10
+00:00:10,838 --> 00:00:11,549
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print()\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+11
+00:00:11,549 --> 00:00:11,894
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+12
+00:00:11,894 --> 00:00:12,049
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"H\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+13
+00:00:12,049 --> 00:00:12,269
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HE\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+14
+00:00:12,269 --> 00:00:12,392
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HEL\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+15
+00:00:12,392 --> 00:00:12,661
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HELL\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+16
+00:00:12,661 --> 00:00:12,984
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HELLO\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+17
+00:00:12,984 --> 00:00:13,127
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HELL\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+18
+00:00:13,127 --> 00:00:13,225
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HEL\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+19
+00:00:13,225 --> 00:00:13,610
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"HE\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+20
+00:00:13,610 --> 00:00:13,791
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"H\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+21
+00:00:13,791 --> 00:00:14,350
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"He\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+22
+00:00:14,350 --> 00:00:14,477
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hel\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+23
+00:00:14,477 --> 00:00:14,612
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hell\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+24
+00:00:14,612 --> 00:00:14,762
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+25
+00:00:14,762 --> 00:00:14,966
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello \")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+26
+00:00:14,966 --> 00:00:15,178
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello W\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+27
+00:00:15,178 --> 00:00:15,397
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wo\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+28
+00:00:15,397 --> 00:00:15,484
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wol\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+29
+00:00:15,484 --> 00:00:15,712
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wolr\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+30
+00:00:15,712 --> 00:00:16,189
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wolrd\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+31
+00:00:16,189 --> 00:00:16,315
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wolr\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+32
+00:00:16,315 --> 00:00:16,431
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wol\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+33
+00:00:16,431 --> 00:00:16,523
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wo\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+34
+00:00:16,523 --> 00:00:16,727
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Wor\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+35
+00:00:16,727 --> 00:00:16,858
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello Worl\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+36
+00:00:16,858 --> 00:00:17,740
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello World\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+37
+00:00:17,740 --> 00:00:22,497
+{"text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n  print(\"Hello World!\")\n}\n\nmodule.exports = helloWorld;\n","file":"exercises/easy/ex1-hello-world.js","language":"javascript"}
+
+38
+00:00:22,497 --> 00:00:29,903
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\n\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+39
+00:00:29,903 --> 00:02:36,472
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+40
+00:02:36,472 --> 00:03:15,670
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\n\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+41
+00:03:15,670 --> 00:03:15,903
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\nd\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+42
+00:03:15,903 --> 00:03:16,122
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\nde\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+43
+00:03:16,122 --> 00:03:16,840
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+44
+00:03:16,840 --> 00:03:17,155
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef \nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+45
+00:03:17,155 --> 00:03:17,252
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef g\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+46
+00:03:17,252 --> 00:03:17,401
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef ge\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+47
+00:03:17,401 --> 00:03:18,518
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+48
+00:03:18,518 --> 00:03:19,153
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+49
+00:03:19,153 --> 00:03:19,599
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_T\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+50
+00:03:19,599 --> 00:03:19,599
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Ty\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+51
+00:03:19,599 --> 00:03:19,878
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Tyy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+52
+00:03:19,878 --> 00:03:19,965
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Typy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+53
+00:03:19,965 --> 00:03:22,951
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Typey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+54
+00:03:22,951 --> 00:03:23,136
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Typy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+55
+00:03:23,136 --> 00:03:23,278
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Tyy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+56
+00:03:23,278 --> 00:03:23,466
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_Ty\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+57
+00:03:23,466 --> 00:03:24,253
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_y\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+58
+00:03:24,253 --> 00:03:24,358
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_ty\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+59
+00:03:24,358 --> 00:03:24,620
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_tyy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+60
+00:03:24,620 --> 00:03:24,742
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_typy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+61
+00:03:24,742 --> 00:03:25,222
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_typey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+62
+00:03:25,222 --> 00:03:25,772
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_type*y\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+63
+00:03:25,772 --> 00:03:26,216
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_typey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+64
+00:03:26,216 --> 00:03:31,257
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_type()y\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+65
+00:03:31,257 --> 00:03:31,748
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_typey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+66
+00:03:31,748 --> 00:03:32,371
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_typy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+67
+00:03:32,371 --> 00:03:32,416
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_tyy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+68
+00:03:32,416 --> 00:03:32,462
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_ty\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+69
+00:03:32,462 --> 00:03:32,489
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef get_y\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+70
+00:03:32,489 --> 00:03:32,546
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef gety\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+71
+00:03:32,546 --> 00:03:32,578
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef gey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+72
+00:03:32,578 --> 00:03:32,602
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef gy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+73
+00:03:32,602 --> 00:03:32,687
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndef y\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+74
+00:03:32,687 --> 00:03:32,695
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndefy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+75
+00:03:32,695 --> 00:03:32,939
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndey\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+76
+00:03:32,939 --> 00:03:33,122
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ndy\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+77
+00:03:33,122 --> 00:03:34,930
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+78
+00:03:34,930 --> 00:03:36,002
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+79
+00:03:36,002 --> 00:03:36,266
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nd\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+80
+00:03:36,266 --> 00:03:36,445
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nde\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+81
+00:03:36,445 --> 00:03:36,742
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+82
+00:03:36,742 --> 00:03:38,744
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef \n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+83
+00:03:38,744 --> 00:03:38,883
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef g\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+84
+00:03:38,883 --> 00:03:39,068
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef ge\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+85
+00:03:39,068 --> 00:03:39,913
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+86
+00:03:39,913 --> 00:03:40,152
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+87
+00:03:40,152 --> 00:03:40,348
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_t\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+88
+00:03:40,348 --> 00:03:40,548
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_ty\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+89
+00:03:40,548 --> 00:03:40,684
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_typ\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+90
+00:03:40,684 --> 00:03:41,477
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+91
+00:03:41,477 --> 00:03:42,536
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type()\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+92
+00:03:42,536 --> 00:03:42,717
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(v)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+93
+00:03:42,717 --> 00:03:42,961
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(va)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+94
+00:03:42,961 --> 00:03:43,253
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(var)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+95
+00:03:43,253 --> 00:03:43,405
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(vara)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+96
+00:03:43,405 --> 00:03:43,638
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varai)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+97
+00:03:43,638 --> 00:03:43,902
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaib)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+98
+00:03:43,902 --> 00:03:44,022
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaibl)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+99
+00:03:44,022 --> 00:03:46,972
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible)\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+100
+00:03:46,972 --> 00:03:47,251
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+101
+00:03:47,251 --> 00:03:49,348
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+102
+00:03:49,348 --> 00:03:49,583
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\n\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+103
+00:03:49,583 --> 00:03:50,113
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nr\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+104
+00:03:50,113 --> 00:03:50,113
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nre\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+105
+00:03:50,113 --> 00:03:50,115
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nree\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+106
+00:03:50,115 --> 00:03:50,234
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nrete\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+107
+00:03:50,234 --> 00:03:50,360
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nretue\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+108
+00:03:50,360 --> 00:03:50,521
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreture\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+109
+00:03:50,521 --> 00:03:51,483
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturne\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+110
+00:03:51,483 --> 00:03:51,874
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+111
+00:03:51,874 --> 00:03:52,036
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn te\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+112
+00:03:52,036 --> 00:03:52,318
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn tye\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+113
+00:03:52,318 --> 00:03:52,416
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn type\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+114
+00:03:52,416 --> 00:03:52,648
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typee\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+115
+00:03:52,648 --> 00:03:52,756
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeoe\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+116
+00:03:52,756 --> 00:03:53,565
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeofe\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+117
+00:03:53,565 --> 00:03:53,567
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeofe\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+118
+00:03:53,567 --> 00:03:53,841
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof()e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+119
+00:03:53,841 --> 00:03:53,909
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(v)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+120
+00:03:53,909 --> 00:03:54,117
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(va)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+121
+00:03:54,117 --> 00:03:54,365
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(var)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+122
+00:03:54,365 --> 00:03:54,452
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(vara)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+123
+00:03:54,452 --> 00:03:54,667
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(varai)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+124
+00:03:54,667 --> 00:03:54,905
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(varaib)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+125
+00:03:54,905 --> 00:03:55,006
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(varaibl)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+126
+00:03:55,006 --> 00:03:55,932
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(varaible)e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+127
+00:03:55,932 --> 00:04:11,588
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef get_type(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+128
+00:04:11,588 --> 00:04:11,710
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef s(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+129
+00:04:11,710 --> 00:04:12,002
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef sh(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+130
+00:04:12,002 --> 00:04:12,125
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef sho(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+131
+00:04:12,125 --> 00:04:12,519
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef show(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+132
+00:04:12,519 --> 00:04:13,097
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showa(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+133
+00:04:13,097 --> 00:04:16,065
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showal(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+134
+00:04:16,065 --> 00:04:17,257
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showall(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+135
+00:04:17,257 --> 00:04:17,524
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallT(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+136
+00:04:17,524 --> 00:04:17,912
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallTy(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+137
+00:04:17,912 --> 00:04:18,062
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallTyp(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+138
+00:04:18,062 --> 00:04:18,266
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallType(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+139
+00:04:18,266 --> 00:04:20,231
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+140
+00:04:20,231 --> 00:04:20,706
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showa\\llTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+141
+00:04:20,706 --> 00:04:20,792
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showallTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+142
+00:04:20,792 --> 00:04:20,887
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+143
+00:04:20,887 --> 00:04:35,660
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\ndef showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+144
+00:04:35,660 --> 00:04:35,785
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nde showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+145
+00:04:35,785 --> 00:04:35,943
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nd showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+146
+00:04:35,943 --> 00:04:36,227
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+147
+00:04:36,227 --> 00:04:37,540
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */ showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+148
+00:04:37,540 --> 00:04:38,753
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n   showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+149
+00:04:38,753 --> 00:04:39,263
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n  showAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+150
+00:04:39,263 --> 00:04:59,217
+{"text":"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nshowAllTypes(varaible);\n\nreturn typeof(varaible);e\n}\ny\nmodule.exports = showAllTypes;\n","file":"exercises/easy/ex2-type-checker.js","language":"javascript"}
+
+151
+00:04:59,217 --> 00:07:39,856
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+152
+00:07:39,856 --> 00:07:40,584
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+153
+00:07:40,584 --> 00:07:40,584
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+154
+00:07:40,584 --> 00:07:40,584
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n  \n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+155
+00:07:40,584 --> 00:07:42,885
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+156
+00:07:42,885 --> 00:07:43,110
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  n\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+157
+00:07:43,110 --> 00:07:43,295
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  nm\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+158
+00:07:43,295 --> 00:07:43,552
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  nma\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+159
+00:07:43,552 --> 00:07:43,654
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  nm\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+160
+00:07:43,654 --> 00:07:43,770
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  n\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+161
+00:07:43,770 --> 00:07:43,940
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  na\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+162
+00:07:43,940 --> 00:07:44,003
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  nam\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+163
+00:07:44,003 --> 00:07:44,220
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+164
+00:07:44,220 --> 00:07:44,804
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+165
+00:07:44,804 --> 00:07:45,041
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name =\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+166
+00:07:45,041 --> 00:07:45,274
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+167
+00:07:45,274 --> 00:07:45,576
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = A\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+168
+00:07:45,576 --> 00:07:45,744
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = An\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+169
+00:07:45,744 --> 00:07:45,955
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = And\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+170
+00:07:45,955 --> 00:07:46,107
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Ande\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+171
+00:07:46,107 --> 00:07:46,487
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Ander\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+172
+00:07:46,487 --> 00:07:46,840
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Anders\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+173
+00:07:46,840 --> 00:07:47,392
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Anderso\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+174
+00:07:47,392 --> 00:07:47,432
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Anders\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+175
+00:07:47,432 --> 00:07:47,592
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Ander\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+176
+00:07:47,592 --> 00:07:47,701
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = Ande\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+177
+00:07:47,701 --> 00:07:47,848
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = And\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+178
+00:07:47,848 --> 00:07:48,042
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = An\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+179
+00:07:48,042 --> 00:07:48,103
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = A\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+180
+00:07:48,103 --> 00:07:48,489
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+181
+00:07:48,489 --> 00:07:48,719
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = a\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+182
+00:07:48,719 --> 00:07:48,812
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = an\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+183
+00:07:48,812 --> 00:07:48,944
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = and\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+184
+00:07:48,944 --> 00:07:49,017
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = ande\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+185
+00:07:49,017 --> 00:07:49,257
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = ander\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+186
+00:07:49,257 --> 00:07:49,372
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anders\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+187
+00:07:49,372 --> 00:07:49,583
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderso\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+188
+00:07:49,583 --> 00:07:49,924
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+189
+00:07:49,924 --> 00:07:56,385
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+190
+00:07:56,385 --> 00:07:56,954
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  c\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+191
+00:07:56,954 --> 00:07:57,109
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  ca\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+192
+00:07:57,109 --> 00:07:58,220
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  cap\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+193
+00:07:58,220 --> 00:07:58,380
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  ca\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+194
+00:07:58,380 --> 00:07:58,490
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  c\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+195
+00:07:58,490 --> 00:07:59,094
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+196
+00:07:59,094 --> 00:07:59,208
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  C\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+197
+00:07:59,208 --> 00:07:59,501
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CA\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+198
+00:07:59,501 --> 00:08:01,447
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+199
+00:08:01,447 --> 00:08:01,857
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+200
+00:08:01,857 --> 00:08:02,142
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP =\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+201
+00:08:02,142 --> 00:08:02,282
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+202
+00:08:02,282 --> 00:08:02,353
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = n\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+203
+00:08:02,353 --> 00:08:02,499
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = na\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+204
+00:08:02,499 --> 00:08:02,562
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = nam\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+205
+00:08:02,562 --> 00:08:03,224
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+206
+00:08:03,224 --> 00:08:03,225
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+207
+00:08:03,225 --> 00:08:03,550
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+208
+00:08:03,550 --> 00:08:03,769
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.u\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+209
+00:08:03,769 --> 00:08:03,911
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.uo\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+210
+00:08:03,911 --> 00:08:04,248
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.uop\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+211
+00:08:04,248 --> 00:08:04,422
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.uo\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+212
+00:08:04,422 --> 00:08:04,945
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.u\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+213
+00:08:04,945 --> 00:08:05,050
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.up\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+214
+00:08:05,050 --> 00:08:05,106
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upp\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+215
+00:08:05,106 --> 00:08:05,243
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.uppe\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+216
+00:08:05,243 --> 00:08:06,171
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+217
+00:08:06,171 --> 00:08:09,051
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper()\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+218
+00:08:09,051 --> 00:08:09,350
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+219
+00:08:09,350 --> 00:08:11,621
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  \n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+220
+00:08:11,621 --> 00:08:11,720
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  p\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+221
+00:08:11,720 --> 00:08:11,936
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  pr\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+222
+00:08:11,936 --> 00:08:12,179
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  pri\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+223
+00:08:12,179 --> 00:08:12,985
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  prin\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+224
+00:08:12,985 --> 00:08:14,428
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+225
+00:08:14,428 --> 00:08:14,429
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+226
+00:08:14,429 --> 00:08:14,964
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print()\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+227
+00:08:14,964 --> 00:08:15,147
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print(C)\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+228
+00:08:15,147 --> 00:08:15,916
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print(CA)\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+229
+00:08:15,916 --> 00:08:19,734
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print(CAP)\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+230
+00:08:19,734 --> 00:08:28,926
+{"text":"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print(CAP);\n  \n}\n\nmodule.exports = screamName;\n","file":"exercises/easy/ex6-name-screamer.js","language":"javascript"}
+
+231
+00:08:28,926 --> 00:08:35,829
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+232
+00:08:35,829 --> 00:08:38,721
+{"text":"function rollDice() {\n  /* return a random number between 1 and 6, simulating a dice roll */\n}\n\nmodule.exports = rollDice;\n","file":"exercises/medium/ex4-dice-roller.js","language":"javascript"}
+
+233
+00:08:38,721 --> 00:08:41,735
+{"text":"function reverseString(str) {\n  /* take a string as input and return it reversed Example: \"hello\" -> \"olleh\" */\n}\n\nmodule.exports = reverseString;\n","file":"exercises/medium/ex9-reverse-string.js","language":"javascript"}
+
+234
+00:08:41,735 --> 00:08:44,805
+{"text":"function createLyrics(songData) {\n  // Use template literals to create lyrics from the songData object\n  // The songData object will have properties like artist, title, verse, chorus\n  // Return the formatted lyrics string\n}\n\nmodule.exports = createLyrics;\n","file":"exercises/hard/ex5-template-lyrics.js","language":"javascript"}
+
+235
+00:08:44,805 --> 00:08:51,905
+{"text":"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n}\n\nmodule.exports = { Player, createPlayer };\n","file":"exercises/hard/ex7-player-class.js","language":"javascript"}
+
+236
+00:08:51,905 --> 00:08:58,020
+{"text":"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n}\n\nmodule.exports = simulateBattle;\n","file":"exercises/hard/ex8-battle-simulation.js","language":"javascript"}
+
+237
+00:08:58,020 --> 00:09:04,961
+{"text":"const helloWorld = require('../../exercises/easy/ex1-hello-world');\n\ndescribe('hello world function', () => {\n  test('should log \"Hello World!\" to the console', () => {\n    const consoleSpy = jest.spyOn(console, 'log');\n    helloWorld();\n    expect(consoleSpy).toHaveBeenCalledWith('Hello World!');\n    consoleSpy.mockRestore();\n  });\n});\n","file":"tests/easy/ex1.test.js","language":"javascript"}
+
+238
+00:09:04,961 --> 00:09:13,421
+{"text":"const showAllTypes = require('../../exercises/easy/ex2-type-checker');\n\ndescribe('Show All Types function', () => {\n  test('should return an object with all the types', () => {\n    const result = showAllTypes();\n    \n    expect(result).toHaveProperty('object');\n    expect(result).toHaveProperty('array');\n    expect(result).toHaveProperty('string');\n    expect(result).toHaveProperty('number');\n    expect(result).toHaveProperty('boolean');\n    expect(result).toHaveProperty('null');\n    expect(result).toHaveProperty('undefined');\n    expect(result).toHaveProperty('nan');\n    \n    expect(result.object).toBe('object');\n    expect(result.array).toBe('object');\n    expect(result.string).toBe('string');\n    expect(result.number).toBe('number');\n    expect(result.boolean).toBe('boolean');\n    expect(result.null).toBe('object');\n    expect(result.undefined).toBe('undefined');\n    expect(result.nan).toBe('number');\n  });\n});\n","file":"tests/easy/ex2.test.js","language":"javascript"}
+
+239
+00:09:13,421 --> 00:09:21,780
+{"text":"const screamName = require('../../exercises/easy/ex6-name-screamer');\n\ndescribe('Name Screamer function', () => {\n  test('should convert name to uppercase and add exclamation marks', () => {\n    expect(screamName('john')).toBe('JOHN!!!');\n    expect(screamName('Sarah')).toBe('SARAH!!!');\n    expect(screamName('bob smith')).toBe('BOB SMITH!!!');\n  });\n});\n","file":"tests/easy/ex6.test.js","language":"javascript"}
+
+240
+00:09:21,780 --> 00:09:23,904
+{"text":"const checkResolution = require('../../exercises/medium/ex3-resolution-checker');\n\ndescribe('Resolution Checker function', () => {\n  test('should return \"landscape\" when width > height', () => {\n    expect(checkResolution(1920, 1080)).toBe('landscape');\n    expect(checkResolution(800, 600)).toBe('landscape');\n  });\n\n  test('should return \"portrait\" when height >= width', () => {\n    expect(checkResolution(1080, 1920)).toBe('portrait');\n    expect(checkResolution(500, 500)).toBe('portrait');\n  });\n});\n","file":"tests/medium/ex3.test.js","language":"javascript"}
+
+241
+00:09:23,904 --> 00:09:24,888
+{"text":"const reverseString = require('../../exercises/medium/ex9-reverse-string');\n\ndescribe('Reverse String function', () => {\n  test('should reverse a string', () => {\n    expect(reverseString('hello')).toBe('olleh');\n    expect(reverseString('JavaScript')).toBe('tpircSavaJ');\n    expect(reverseString('12345')).toBe('54321');\n  });\n\n  test('should handle empty string', () => {\n    expect(reverseString('')).toBe('');\n  });\n\n  test('should handle single character', () => {\n    expect(reverseString('a')).toBe('a');\n  });\n});\n","file":"tests/medium/ex9.test.js","language":"javascript"}
+
+242
+00:09:24,888 --> 00:09:27,875
+{"text":"const rollDice = require('../../exercises/medium/ex4-dice-roller');\n\ndescribe('Dice Roller function', () => {\n  test('should return a number between 1 and 6', () => {\n    // Run multiple tests to ensure randomness\n    for (let i = 0; i < 100; i++) {\n      const result = rollDice();\n      expect(result).toBeGreaterThanOrEqual(1);\n      expect(result).toBeLessThanOrEqual(6);\n      expect(Number.isInteger(result)).toBe(true);\n    }\n  });\n});\n","file":"tests/medium/ex4.test.js","language":"javascript"}
+
+243
+00:09:27,875 --> 00:09:29,037
+{"text":"const createLyrics = require('../../exercises/hard/ex5-template-lyrics');\n\ndescribe('Template Literals Lyrics function', () => {\n  test('should create lyrics using template literals', () => {\n    const songData = {\n      artist: 'Test Artist',\n      title: 'Test Song',\n      verse: 'This is a test verse',\n      chorus: 'This is a test chorus'\n    };\n    \n    const result = createLyrics(songData);\n    \n    expect(result).toContain(songData.artist);\n    expect(result).toContain(songData.title);\n    expect(result).toContain(songData.verse);\n    expect(result).toContain(songData.chorus);\n    \n    const functionString = createLyrics.toString();\n    expect(functionString).toMatch(/`.*\\${.*}.*`/s);\n  });\n});\n","file":"tests/hard/ex5.test.js","language":"javascript"}
+
+244
+00:09:29,037 --> 00:09:31,021
+{"text":"const { Player, createPlayer } = require('../../exercises/hard/ex7-player-class');\n\ndescribe('Player Class', () => {\n  test('should create a player with all required properties', () => {\n    const player = new Player('Hero', 100, 'Sword', 10, 25);\n    \n    expect(player.name).toBe('Hero');\n    expect(player.health).toBe(100);\n    expect(player.weapon).toBe('Sword');\n    expect(player.speed).toBe(10);\n    expect(player.damage).toBe(25);\n  });\n  \n  test('createPlayer function should return a Player instance', () => {\n    const player = createPlayer('Villain', 80, 'Axe', 8, 30);\n    \n    expect(player instanceof Player).toBe(true);\n    expect(player.name).toBe('Villain');\n    expect(player.health).toBe(80);\n    expect(player.weapon).toBe('Axe');\n    expect(player.speed).toBe(8);\n    expect(player.damage).toBe(30);\n  });\n});\n","file":"tests/hard/ex7.test.js","language":"javascript"}
+
+245
+00:09:31,021 --> 00:09:40,948
+{"text":"const simulateBattle = require('../../exercises/hard/ex8-battle-simulation');\n\ndescribe('Battle Simulation function', () => {\n  test('should reduce health of both players based on damage', () => {\n    const player1 = { name: 'Hero', health: 100, damage: 20, weapon: 'Sword', speed: 10 };\n    const player2 = { name: 'Enemy', health: 80, damage: 15, weapon: 'Axe', speed: 8 };\n    \n    const result = simulateBattle(player1, player2);\n    \n    expect(result).toHaveProperty('player1Health');\n    expect(result).toHaveProperty('player2Health');\n    expect(result.player1Health).toBe(85); // 100 - 15\n    expect(result.player2Health).toBe(60); // 80 - 20\n  });\n});\n","file":"tests/hard/ex8.test.js","language":"javascript"}
+
+246
+00:09:40,948 --> 00:09:45,511
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+247
+00:09:45,511 --> 00:09:46,285
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\n\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+248
+00:09:46,285 --> 00:09:46,542
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\ni\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+249
+00:09:46,542 --> 00:09:46,766
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+250
+00:09:46,766 --> 00:10:07,539
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif \nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+251
+00:10:07,539 --> 00:10:09,207
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif l\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+252
+00:10:09,207 --> 00:10:10,402
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif \nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+253
+00:10:10,402 --> 00:10:11,352
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif ()\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+254
+00:10:11,352 --> 00:10:12,258
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+255
+00:10:12,258 --> 00:10:12,285
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"l\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+256
+00:10:12,285 --> 00:10:12,494
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"la\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+257
+00:10:12,494 --> 00:10:12,568
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"lan\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+258
+00:10:12,568 --> 00:10:13,569
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"land\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+259
+00:10:13,569 --> 00:10:13,674
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"lan\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+260
+00:10:13,674 --> 00:10:13,818
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"la\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+261
+00:10:13,818 --> 00:10:14,309
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"l\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+262
+00:10:14,309 --> 00:10:14,309
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\"\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+263
+00:10:14,309 --> 00:10:14,310
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\")\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+264
+00:10:14,310 --> 00:10:19,570
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif (\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+265
+00:10:19,570 --> 00:10:19,712
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nif module.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+266
+00:10:19,712 --> 00:10:19,906
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nifmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+267
+00:10:19,906 --> 00:10:20,074
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nimodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+268
+00:10:20,074 --> 00:10:20,259
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+
+269
+00:10:20,259 --> 00:10:48,915
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+

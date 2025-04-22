@@ -1,0 +1,4 @@
+1
+00:00:00,005 --> 00:00:02,597
+{"text":"function checkResolution(width, height) {\n  // Return \"landscape\" if width is greater than height\n  // Return \"portrait\" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n","file":"exercises/medium/ex3-resolution-checker.js","language":"javascript"}
+

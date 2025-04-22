@@ -1,0 +1,274 @@
+Sequence,Time,File,RangeOffset,RangeLength,Text,Language,Type
+1,12,"exercises/easy/ex1-hello-world.js",0,0,"function helloWorld() {\n  // write a function that prints ""Hello World!"" to the console\n  \n}\n\nmodule.exports = helloWorld;\n",javascript,tab
+2,8065,"exercises/easy/ex1-hello-world.js",90,0,"p",javascript,content
+3,8120,"exercises/easy/ex1-hello-world.js",91,0,"r",javascript,content
+4,8298,"exercises/easy/ex1-hello-world.js",92,0,"i",javascript,content
+5,8528,"exercises/easy/ex1-hello-world.js",93,0,"n",javascript,content
+6,8734,"exercises/easy/ex1-hello-world.js",94,0,"t",javascript,content
+7,9897,"exercises/easy/ex1-hello-world.js",90,5,"print",javascript,content
+7,9897,"exercises/easy/ex1-hello-world.js",90,5,"print",javascript,content
+8,9901,"exercises/easy/ex1-hello-world.js",95,0,"()",javascript,content
+9,10622,"exercises/easy/ex1-hello-world.js",96,0,":",javascript,content
+10,10838,"exercises/easy/ex1-hello-world.js",96,1,"",javascript,content
+11,11549,"exercises/easy/ex1-hello-world.js",96,0,"""""",javascript,content
+12,11894,"exercises/easy/ex1-hello-world.js",97,0,"H",javascript,content
+13,12049,"exercises/easy/ex1-hello-world.js",98,0,"E",javascript,content
+14,12269,"exercises/easy/ex1-hello-world.js",99,0,"L",javascript,content
+15,12392,"exercises/easy/ex1-hello-world.js",100,0,"L",javascript,content
+16,12661,"exercises/easy/ex1-hello-world.js",101,0,"O",javascript,content
+17,12984,"exercises/easy/ex1-hello-world.js",101,1,"",javascript,content
+18,13127,"exercises/easy/ex1-hello-world.js",100,1,"",javascript,content
+19,13225,"exercises/easy/ex1-hello-world.js",99,1,"",javascript,content
+20,13610,"exercises/easy/ex1-hello-world.js",98,1,"",javascript,content
+21,13791,"exercises/easy/ex1-hello-world.js",98,0,"e",javascript,content
+22,14350,"exercises/easy/ex1-hello-world.js",99,0,"l",javascript,content
+23,14477,"exercises/easy/ex1-hello-world.js",100,0,"l",javascript,content
+24,14612,"exercises/easy/ex1-hello-world.js",101,0,"o",javascript,content
+25,14762,"exercises/easy/ex1-hello-world.js",102,0," ",javascript,content
+26,14966,"exercises/easy/ex1-hello-world.js",103,0,"W",javascript,content
+27,15178,"exercises/easy/ex1-hello-world.js",104,0,"o",javascript,content
+28,15397,"exercises/easy/ex1-hello-world.js",105,0,"l",javascript,content
+29,15484,"exercises/easy/ex1-hello-world.js",106,0,"r",javascript,content
+30,15712,"exercises/easy/ex1-hello-world.js",107,0,"d",javascript,content
+31,16189,"exercises/easy/ex1-hello-world.js",107,1,"",javascript,content
+32,16315,"exercises/easy/ex1-hello-world.js",106,1,"",javascript,content
+33,16431,"exercises/easy/ex1-hello-world.js",105,1,"",javascript,content
+34,16523,"exercises/easy/ex1-hello-world.js",105,0,"r",javascript,content
+35,16727,"exercises/easy/ex1-hello-world.js",106,0,"l",javascript,content
+36,16858,"exercises/easy/ex1-hello-world.js",107,0,"d",javascript,content
+37,17740,"exercises/easy/ex1-hello-world.js",108,0,"!",javascript,content
+38,22497,"exercises/easy/ex2-type-checker.js",0,0,"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\n\nmodule.exports = showAllTypes;\n",javascript,tab
+39,29903,"exercises/easy/ex6-name-screamer.js",0,0,"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n}\n\nmodule.exports = screamName;\n",javascript,tab
+40,156472,"exercises/easy/ex2-type-checker.js",0,0,"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\n}\n\nmodule.exports = showAllTypes;\n",javascript,tab
+41,195670,"exercises/easy/ex2-type-checker.js",209,0,"d",javascript,content
+42,195903,"exercises/easy/ex2-type-checker.js",210,0,"e",javascript,content
+43,196122,"exercises/easy/ex2-type-checker.js",211,0,"f",javascript,content
+44,196840,"exercises/easy/ex2-type-checker.js",212,0," ",javascript,content
+45,197155,"exercises/easy/ex2-type-checker.js",213,0,"g",javascript,content
+46,197252,"exercises/easy/ex2-type-checker.js",214,0,"e",javascript,content
+47,197401,"exercises/easy/ex2-type-checker.js",215,0,"t",javascript,content
+48,198518,"exercises/easy/ex2-type-checker.js",216,0,"_",javascript,content
+49,199153,"exercises/easy/ex2-type-checker.js",217,0,"T",javascript,content
+50,199599,"exercises/easy/ex2-type-checker.js",218,0,"y",javascript,content
+50,199599,"exercises/easy/ex2-type-checker.js",218,0,"y",javascript,content
+51,199878,"exercises/easy/ex2-type-checker.js",219,0,"p",javascript,content
+52,199965,"exercises/easy/ex2-type-checker.js",220,0,"e",javascript,content
+53,202951,"exercises/easy/ex2-type-checker.js",220,1,"",javascript,content
+54,203136,"exercises/easy/ex2-type-checker.js",219,1,"",javascript,content
+55,203278,"exercises/easy/ex2-type-checker.js",218,1,"",javascript,content
+56,203466,"exercises/easy/ex2-type-checker.js",217,1,"",javascript,content
+57,204253,"exercises/easy/ex2-type-checker.js",217,0,"t",javascript,content
+58,204358,"exercises/easy/ex2-type-checker.js",218,0,"y",javascript,content
+59,204620,"exercises/easy/ex2-type-checker.js",219,0,"p",javascript,content
+60,204742,"exercises/easy/ex2-type-checker.js",220,0,"e",javascript,content
+61,205222,"exercises/easy/ex2-type-checker.js",221,0,"*",javascript,content
+62,205772,"exercises/easy/ex2-type-checker.js",221,1,"",javascript,content
+63,206216,"exercises/easy/ex2-type-checker.js",221,0,"()",javascript,content
+64,211257,"exercises/easy/ex2-type-checker.js",221,2,"",javascript,content
+65,211748,"exercises/easy/ex2-type-checker.js",220,1,"",javascript,content
+66,212371,"exercises/easy/ex2-type-checker.js",219,1,"",javascript,content
+67,212416,"exercises/easy/ex2-type-checker.js",218,1,"",javascript,content
+68,212462,"exercises/easy/ex2-type-checker.js",217,1,"",javascript,content
+69,212489,"exercises/easy/ex2-type-checker.js",216,1,"",javascript,content
+70,212546,"exercises/easy/ex2-type-checker.js",215,1,"",javascript,content
+71,212578,"exercises/easy/ex2-type-checker.js",214,1,"",javascript,content
+72,212602,"exercises/easy/ex2-type-checker.js",213,1,"",javascript,content
+73,212687,"exercises/easy/ex2-type-checker.js",212,1,"",javascript,content
+74,212695,"exercises/easy/ex2-type-checker.js",211,1,"",javascript,content
+75,212939,"exercises/easy/ex2-type-checker.js",210,1,"",javascript,content
+76,213122,"exercises/easy/ex2-type-checker.js",209,1,"",javascript,content
+77,214930,"exercises/easy/ex2-type-checker.js",207,0,"\n",javascript,content
+78,216002,"exercises/easy/ex2-type-checker.js",207,0,"d",javascript,content
+79,216266,"exercises/easy/ex2-type-checker.js",208,0,"e",javascript,content
+80,216445,"exercises/easy/ex2-type-checker.js",209,0,"f",javascript,content
+81,216742,"exercises/easy/ex2-type-checker.js",210,0," ",javascript,content
+82,218744,"exercises/easy/ex2-type-checker.js",211,0,"g",javascript,content
+83,218883,"exercises/easy/ex2-type-checker.js",212,0,"e",javascript,content
+84,219068,"exercises/easy/ex2-type-checker.js",213,0,"t",javascript,content
+85,219913,"exercises/easy/ex2-type-checker.js",214,0,"_",javascript,content
+86,220152,"exercises/easy/ex2-type-checker.js",215,0,"t",javascript,content
+87,220348,"exercises/easy/ex2-type-checker.js",216,0,"y",javascript,content
+88,220548,"exercises/easy/ex2-type-checker.js",217,0,"p",javascript,content
+89,220684,"exercises/easy/ex2-type-checker.js",218,0,"e",javascript,content
+90,221477,"exercises/easy/ex2-type-checker.js",219,0,"()",javascript,content
+91,222536,"exercises/easy/ex2-type-checker.js",220,0,"v",javascript,content
+92,222717,"exercises/easy/ex2-type-checker.js",221,0,"a",javascript,content
+93,222961,"exercises/easy/ex2-type-checker.js",222,0,"r",javascript,content
+94,223253,"exercises/easy/ex2-type-checker.js",223,0,"a",javascript,content
+95,223405,"exercises/easy/ex2-type-checker.js",224,0,"i",javascript,content
+96,223638,"exercises/easy/ex2-type-checker.js",225,0,"b",javascript,content
+97,223902,"exercises/easy/ex2-type-checker.js",226,0,"l",javascript,content
+98,224022,"exercises/easy/ex2-type-checker.js",227,0,"e",javascript,content
+99,226972,"exercises/easy/ex2-type-checker.js",229,0,";",javascript,content
+100,227251,"exercises/easy/ex2-type-checker.js",230,0,"\n",javascript,content
+101,229348,"exercises/easy/ex2-type-checker.js",231,0,"\n",javascript,content
+102,229583,"exercises/easy/ex2-type-checker.js",232,0,"r",javascript,content
+103,230113,"exercises/easy/ex2-type-checker.js",233,0,"e",javascript,content
+103,230113,"exercises/easy/ex2-type-checker.js",233,0,"e",javascript,content
+104,230115,"exercises/easy/ex2-type-checker.js",234,0,"t",javascript,content
+105,230234,"exercises/easy/ex2-type-checker.js",235,0,"u",javascript,content
+106,230360,"exercises/easy/ex2-type-checker.js",236,0,"r",javascript,content
+107,230521,"exercises/easy/ex2-type-checker.js",237,0,"n",javascript,content
+108,231483,"exercises/easy/ex2-type-checker.js",238,0," ",javascript,content
+109,231874,"exercises/easy/ex2-type-checker.js",239,0,"t",javascript,content
+110,232036,"exercises/easy/ex2-type-checker.js",240,0,"y",javascript,content
+111,232318,"exercises/easy/ex2-type-checker.js",241,0,"p",javascript,content
+112,232416,"exercises/easy/ex2-type-checker.js",242,0,"e",javascript,content
+113,232648,"exercises/easy/ex2-type-checker.js",243,0,"o",javascript,content
+114,232756,"exercises/easy/ex2-type-checker.js",244,0,"f",javascript,content
+115,233565,"exercises/easy/ex2-type-checker.js",239,6,"typeof",javascript,content
+115,233565,"exercises/easy/ex2-type-checker.js",239,6,"typeof",javascript,content
+116,233567,"exercises/easy/ex2-type-checker.js",245,0,"()",javascript,content
+117,233841,"exercises/easy/ex2-type-checker.js",246,0,"v",javascript,content
+118,233909,"exercises/easy/ex2-type-checker.js",247,0,"a",javascript,content
+119,234117,"exercises/easy/ex2-type-checker.js",248,0,"r",javascript,content
+120,234365,"exercises/easy/ex2-type-checker.js",249,0,"a",javascript,content
+121,234452,"exercises/easy/ex2-type-checker.js",250,0,"i",javascript,content
+122,234667,"exercises/easy/ex2-type-checker.js",251,0,"b",javascript,content
+123,234905,"exercises/easy/ex2-type-checker.js",252,0,"l",javascript,content
+124,235006,"exercises/easy/ex2-type-checker.js",253,0,"e",javascript,content
+125,235932,"exercises/easy/ex2-type-checker.js",255,0,";",javascript,content
+126,251588,"exercises/easy/ex2-type-checker.js",211,8,"s",javascript,content
+127,251710,"exercises/easy/ex2-type-checker.js",212,0,"h",javascript,content
+128,252002,"exercises/easy/ex2-type-checker.js",213,0,"o",javascript,content
+129,252125,"exercises/easy/ex2-type-checker.js",214,0,"w",javascript,content
+130,252519,"exercises/easy/ex2-type-checker.js",215,0,"a",javascript,content
+131,253097,"exercises/easy/ex2-type-checker.js",216,0,"l",javascript,content
+132,256065,"exercises/easy/ex2-type-checker.js",217,0,"l",javascript,content
+133,257257,"exercises/easy/ex2-type-checker.js",218,0,"T",javascript,content
+134,257524,"exercises/easy/ex2-type-checker.js",219,0,"y",javascript,content
+135,257912,"exercises/easy/ex2-type-checker.js",220,0,"p",javascript,content
+136,258062,"exercises/easy/ex2-type-checker.js",221,0,"e",javascript,content
+137,258266,"exercises/easy/ex2-type-checker.js",222,0,"s",javascript,content
+138,260231,"exercises/easy/ex2-type-checker.js",216,0,"\",javascript,content
+139,260706,"exercises/easy/ex2-type-checker.js",216,1,"",javascript,content
+140,260792,"exercises/easy/ex2-type-checker.js",215,1,"",javascript,content
+141,260887,"exercises/easy/ex2-type-checker.js",215,0,"A",javascript,content
+142,275660,"exercises/easy/ex2-type-checker.js",209,1,"",javascript,content
+143,275785,"exercises/easy/ex2-type-checker.js",208,1,"",javascript,content
+144,275943,"exercises/easy/ex2-type-checker.js",207,1,"",javascript,content
+145,276227,"exercises/easy/ex2-type-checker.js",206,1,"",javascript,content
+146,277540,"exercises/easy/ex2-type-checker.js",206,0,"\n  ",javascript,content
+147,278753,"exercises/easy/ex2-type-checker.js",209,1,"",javascript,content
+148,279263,"exercises/easy/ex2-type-checker.js",207,2,"",javascript,content
+149,299217,"exercises/easy/ex6-name-screamer.js",0,0,"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n}\n\nmodule.exports = screamName;\n",javascript,tab
+150,459856,"exercises/easy/ex6-name-screamer.js",105,0,"\n  ",javascript,content
+151,460584,"exercises/easy/ex6-name-screamer.js",108,0,"\n  ",javascript,content
+151,460584,"exercises/easy/ex6-name-screamer.js",108,0,"\n  ",javascript,content
+152,460584,"exercises/easy/ex6-name-screamer.js",106,2,"",javascript,content
+153,462885,"exercises/easy/ex6-name-screamer.js",109,0,"n",javascript,content
+154,463110,"exercises/easy/ex6-name-screamer.js",110,0,"m",javascript,content
+155,463295,"exercises/easy/ex6-name-screamer.js",111,0,"a",javascript,content
+156,463552,"exercises/easy/ex6-name-screamer.js",111,1,"",javascript,content
+157,463654,"exercises/easy/ex6-name-screamer.js",110,1,"",javascript,content
+158,463770,"exercises/easy/ex6-name-screamer.js",110,0,"a",javascript,content
+159,463940,"exercises/easy/ex6-name-screamer.js",111,0,"m",javascript,content
+160,464003,"exercises/easy/ex6-name-screamer.js",112,0,"e",javascript,content
+161,464220,"exercises/easy/ex6-name-screamer.js",113,0," ",javascript,content
+162,464804,"exercises/easy/ex6-name-screamer.js",114,0,"=",javascript,content
+163,465041,"exercises/easy/ex6-name-screamer.js",115,0," ",javascript,content
+164,465274,"exercises/easy/ex6-name-screamer.js",116,0,"A",javascript,content
+165,465576,"exercises/easy/ex6-name-screamer.js",117,0,"n",javascript,content
+166,465744,"exercises/easy/ex6-name-screamer.js",118,0,"d",javascript,content
+167,465955,"exercises/easy/ex6-name-screamer.js",119,0,"e",javascript,content
+168,466107,"exercises/easy/ex6-name-screamer.js",120,0,"r",javascript,content
+169,466487,"exercises/easy/ex6-name-screamer.js",121,0,"s",javascript,content
+170,466840,"exercises/easy/ex6-name-screamer.js",122,0,"o",javascript,content
+171,467392,"exercises/easy/ex6-name-screamer.js",122,1,"",javascript,content
+172,467432,"exercises/easy/ex6-name-screamer.js",121,1,"",javascript,content
+173,467592,"exercises/easy/ex6-name-screamer.js",120,1,"",javascript,content
+174,467701,"exercises/easy/ex6-name-screamer.js",119,1,"",javascript,content
+175,467848,"exercises/easy/ex6-name-screamer.js",118,1,"",javascript,content
+176,468042,"exercises/easy/ex6-name-screamer.js",117,1,"",javascript,content
+177,468103,"exercises/easy/ex6-name-screamer.js",116,1,"",javascript,content
+178,468489,"exercises/easy/ex6-name-screamer.js",116,0,"a",javascript,content
+179,468719,"exercises/easy/ex6-name-screamer.js",117,0,"n",javascript,content
+180,468812,"exercises/easy/ex6-name-screamer.js",118,0,"d",javascript,content
+181,468944,"exercises/easy/ex6-name-screamer.js",119,0,"e",javascript,content
+182,469017,"exercises/easy/ex6-name-screamer.js",120,0,"r",javascript,content
+183,469257,"exercises/easy/ex6-name-screamer.js",121,0,"s",javascript,content
+184,469372,"exercises/easy/ex6-name-screamer.js",122,0,"o",javascript,content
+185,469583,"exercises/easy/ex6-name-screamer.js",123,0,"n",javascript,content
+186,469924,"exercises/easy/ex6-name-screamer.js",124,0,"\n  ",javascript,content
+187,476385,"exercises/easy/ex6-name-screamer.js",127,0,"c",javascript,content
+188,476954,"exercises/easy/ex6-name-screamer.js",128,0,"a",javascript,content
+189,477109,"exercises/easy/ex6-name-screamer.js",129,0,"p",javascript,content
+190,478220,"exercises/easy/ex6-name-screamer.js",129,1,"",javascript,content
+191,478380,"exercises/easy/ex6-name-screamer.js",128,1,"",javascript,content
+192,478490,"exercises/easy/ex6-name-screamer.js",127,1,"",javascript,content
+193,479094,"exercises/easy/ex6-name-screamer.js",127,0,"C",javascript,content
+194,479208,"exercises/easy/ex6-name-screamer.js",128,0,"A",javascript,content
+195,479501,"exercises/easy/ex6-name-screamer.js",129,0,"P",javascript,content
+196,481447,"exercises/easy/ex6-name-screamer.js",130,0," ",javascript,content
+197,481857,"exercises/easy/ex6-name-screamer.js",131,0,"=",javascript,content
+198,482142,"exercises/easy/ex6-name-screamer.js",132,0," ",javascript,content
+199,482282,"exercises/easy/ex6-name-screamer.js",133,0,"n",javascript,content
+200,482353,"exercises/easy/ex6-name-screamer.js",134,0,"a",javascript,content
+201,482499,"exercises/easy/ex6-name-screamer.js",135,0,"m",javascript,content
+202,482562,"exercises/easy/ex6-name-screamer.js",136,0,"e",javascript,content
+203,483224,"exercises/easy/ex6-name-screamer.js",133,4,"name",javascript,content
+203,483224,"exercises/easy/ex6-name-screamer.js",133,4,"name",javascript,content
+204,483225,"exercises/easy/ex6-name-screamer.js",137,0,".",javascript,content
+205,483550,"exercises/easy/ex6-name-screamer.js",138,0,"u",javascript,content
+206,483769,"exercises/easy/ex6-name-screamer.js",139,0,"o",javascript,content
+207,483911,"exercises/easy/ex6-name-screamer.js",140,0,"p",javascript,content
+208,484248,"exercises/easy/ex6-name-screamer.js",140,1,"",javascript,content
+209,484422,"exercises/easy/ex6-name-screamer.js",139,1,"",javascript,content
+210,484945,"exercises/easy/ex6-name-screamer.js",139,0,"p",javascript,content
+211,485050,"exercises/easy/ex6-name-screamer.js",140,0,"p",javascript,content
+212,485106,"exercises/easy/ex6-name-screamer.js",141,0,"e",javascript,content
+213,485243,"exercises/easy/ex6-name-screamer.js",142,0,"r",javascript,content
+214,486171,"exercises/easy/ex6-name-screamer.js",143,0,"()",javascript,content
+215,489051,"exercises/easy/ex6-name-screamer.js",145,0,";",javascript,content
+216,489350,"exercises/easy/ex6-name-screamer.js",146,0,"\n  ",javascript,content
+217,491621,"exercises/easy/ex6-name-screamer.js",149,0,"p",javascript,content
+218,491720,"exercises/easy/ex6-name-screamer.js",150,0,"r",javascript,content
+219,491936,"exercises/easy/ex6-name-screamer.js",151,0,"i",javascript,content
+220,492179,"exercises/easy/ex6-name-screamer.js",152,0,"n",javascript,content
+221,492985,"exercises/easy/ex6-name-screamer.js",153,0,"t",javascript,content
+222,494428,"exercises/easy/ex6-name-screamer.js",149,5,"print",javascript,content
+222,494428,"exercises/easy/ex6-name-screamer.js",149,5,"print",javascript,content
+223,494429,"exercises/easy/ex6-name-screamer.js",154,0,"()",javascript,content
+224,494964,"exercises/easy/ex6-name-screamer.js",155,0,"C",javascript,content
+225,495147,"exercises/easy/ex6-name-screamer.js",156,0,"A",javascript,content
+226,495916,"exercises/easy/ex6-name-screamer.js",157,0,"P",javascript,content
+227,499734,"exercises/easy/ex6-name-screamer.js",159,0,";",javascript,content
+228,508926,"exercises/medium/ex3-resolution-checker.js",0,0,"function checkResolution(width, height) {\n  // Return ""landscape"" if width is greater than height\n  // Return ""portrait"" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n",javascript,tab
+229,515829,"exercises/medium/ex4-dice-roller.js",0,0,"function rollDice() {\n  /* return a random number between 1 and 6, simulating a dice roll */\n}\n\nmodule.exports = rollDice;\n",javascript,tab
+230,518721,"exercises/medium/ex9-reverse-string.js",0,0,"function reverseString(str) {\n  /* take a string as input and return it reversed Example: ""hello"" -> ""olleh"" */\n}\n\nmodule.exports = reverseString;\n",javascript,tab
+231,521735,"exercises/hard/ex5-template-lyrics.js",0,0,"function createLyrics(songData) {\n  // Use template literals to create lyrics from the songData object\n  // The songData object will have properties like artist, title, verse, chorus\n  // Return the formatted lyrics string\n}\n\nmodule.exports = createLyrics;\n",javascript,tab
+232,524805,"exercises/hard/ex7-player-class.js",0,0,"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n}\n\nmodule.exports = { Player, createPlayer };\n",javascript,tab
+233,531905,"exercises/hard/ex8-battle-simulation.js",0,0,"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n}\n\nmodule.exports = simulateBattle;\n",javascript,tab
+234,538020,"tests/easy/ex1.test.js",0,0,"const helloWorld = require('../../exercises/easy/ex1-hello-world');\n\ndescribe('hello world function', () => {\n  test('should log ""Hello World!"" to the console', () => {\n    const consoleSpy = jest.spyOn(console, 'log');\n    helloWorld();\n    expect(consoleSpy).toHaveBeenCalledWith('Hello World!');\n    consoleSpy.mockRestore();\n  });\n});\n",javascript,tab
+235,544961,"tests/easy/ex2.test.js",0,0,"const showAllTypes = require('../../exercises/easy/ex2-type-checker');\n\ndescribe('Show All Types function', () => {\n  test('should return an object with all the types', () => {\n    const result = showAllTypes();\n    \n    expect(result).toHaveProperty('object');\n    expect(result).toHaveProperty('array');\n    expect(result).toHaveProperty('string');\n    expect(result).toHaveProperty('number');\n    expect(result).toHaveProperty('boolean');\n    expect(result).toHaveProperty('null');\n    expect(result).toHaveProperty('undefined');\n    expect(result).toHaveProperty('nan');\n    \n    expect(result.object).toBe('object');\n    expect(result.array).toBe('object');\n    expect(result.string).toBe('string');\n    expect(result.number).toBe('number');\n    expect(result.boolean).toBe('boolean');\n    expect(result.null).toBe('object');\n    expect(result.undefined).toBe('undefined');\n    expect(result.nan).toBe('number');\n  });\n});\n",javascript,tab
+236,553421,"tests/easy/ex6.test.js",0,0,"const screamName = require('../../exercises/easy/ex6-name-screamer');\n\ndescribe('Name Screamer function', () => {\n  test('should convert name to uppercase and add exclamation marks', () => {\n    expect(screamName('john')).toBe('JOHN!!!');\n    expect(screamName('Sarah')).toBe('SARAH!!!');\n    expect(screamName('bob smith')).toBe('BOB SMITH!!!');\n  });\n});\n",javascript,tab
+237,561780,"tests/medium/ex3.test.js",0,0,"const checkResolution = require('../../exercises/medium/ex3-resolution-checker');\n\ndescribe('Resolution Checker function', () => {\n  test('should return ""landscape"" when width > height', () => {\n    expect(checkResolution(1920, 1080)).toBe('landscape');\n    expect(checkResolution(800, 600)).toBe('landscape');\n  });\n\n  test('should return ""portrait"" when height >= width', () => {\n    expect(checkResolution(1080, 1920)).toBe('portrait');\n    expect(checkResolution(500, 500)).toBe('portrait');\n  });\n});\n",javascript,tab
+238,563904,"tests/medium/ex9.test.js",0,0,"const reverseString = require('../../exercises/medium/ex9-reverse-string');\n\ndescribe('Reverse String function', () => {\n  test('should reverse a string', () => {\n    expect(reverseString('hello')).toBe('olleh');\n    expect(reverseString('JavaScript')).toBe('tpircSavaJ');\n    expect(reverseString('12345')).toBe('54321');\n  });\n\n  test('should handle empty string', () => {\n    expect(reverseString('')).toBe('');\n  });\n\n  test('should handle single character', () => {\n    expect(reverseString('a')).toBe('a');\n  });\n});\n",javascript,tab
+239,564888,"tests/medium/ex4.test.js",0,0,"const rollDice = require('../../exercises/medium/ex4-dice-roller');\n\ndescribe('Dice Roller function', () => {\n  test('should return a number between 1 and 6', () => {\n    // Run multiple tests to ensure randomness\n    for (let i = 0; i < 100; i++) {\n      const result = rollDice();\n      expect(result).toBeGreaterThanOrEqual(1);\n      expect(result).toBeLessThanOrEqual(6);\n      expect(Number.isInteger(result)).toBe(true);\n    }\n  });\n});\n",javascript,tab
+240,567875,"tests/hard/ex5.test.js",0,0,"const createLyrics = require('../../exercises/hard/ex5-template-lyrics');\n\ndescribe('Template Literals Lyrics function', () => {\n  test('should create lyrics using template literals', () => {\n    const songData = {\n      artist: 'Test Artist',\n      title: 'Test Song',\n      verse: 'This is a test verse',\n      chorus: 'This is a test chorus'\n    };\n    \n    const result = createLyrics(songData);\n    \n    expect(result).toContain(songData.artist);\n    expect(result).toContain(songData.title);\n    expect(result).toContain(songData.verse);\n    expect(result).toContain(songData.chorus);\n    \n    const functionString = createLyrics.toString();\n    expect(functionString).toMatch(/`.*\${.*}.*`/s);\n  });\n});\n",javascript,tab
+241,569037,"tests/hard/ex7.test.js",0,0,"const { Player, createPlayer } = require('../../exercises/hard/ex7-player-class');\n\ndescribe('Player Class', () => {\n  test('should create a player with all required properties', () => {\n    const player = new Player('Hero', 100, 'Sword', 10, 25);\n    \n    expect(player.name).toBe('Hero');\n    expect(player.health).toBe(100);\n    expect(player.weapon).toBe('Sword');\n    expect(player.speed).toBe(10);\n    expect(player.damage).toBe(25);\n  });\n  \n  test('createPlayer function should return a Player instance', () => {\n    const player = createPlayer('Villain', 80, 'Axe', 8, 30);\n    \n    expect(player instanceof Player).toBe(true);\n    expect(player.name).toBe('Villain');\n    expect(player.health).toBe(80);\n    expect(player.weapon).toBe('Axe');\n    expect(player.speed).toBe(8);\n    expect(player.damage).toBe(30);\n  });\n});\n",javascript,tab
+242,571021,"tests/hard/ex8.test.js",0,0,"const simulateBattle = require('../../exercises/hard/ex8-battle-simulation');\n\ndescribe('Battle Simulation function', () => {\n  test('should reduce health of both players based on damage', () => {\n    const player1 = { name: 'Hero', health: 100, damage: 20, weapon: 'Sword', speed: 10 };\n    const player2 = { name: 'Enemy', health: 80, damage: 15, weapon: 'Axe', speed: 8 };\n    \n    const result = simulateBattle(player1, player2);\n    \n    expect(result).toHaveProperty('player1Health');\n    expect(result).toHaveProperty('player2Health');\n    expect(result.player1Health).toBe(85); // 100 - 15\n    expect(result.player2Health).toBe(60); // 80 - 20\n  });\n});\n",javascript,tab
+243,580948,"exercises/medium/ex3-resolution-checker.js",0,0,"function checkResolution(width, height) {\n  // Return ""landscape"" if width is greater than height\n  // Return ""portrait"" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n",javascript,tab
+244,585511,"exercises/medium/ex3-resolution-checker.js",167,0,"\n",javascript,content
+245,586285,"exercises/medium/ex3-resolution-checker.js",168,0,"i",javascript,content
+246,586542,"exercises/medium/ex3-resolution-checker.js",169,0,"f",javascript,content
+247,586766,"exercises/medium/ex3-resolution-checker.js",170,0," ",javascript,content
+248,607539,"exercises/medium/ex3-resolution-checker.js",171,0,"l",javascript,content
+249,609207,"exercises/medium/ex3-resolution-checker.js",171,1,"",javascript,content
+250,610402,"exercises/medium/ex3-resolution-checker.js",171,0,"()",javascript,content
+251,611352,"exercises/medium/ex3-resolution-checker.js",172,0,"""""",javascript,content
+252,612258,"exercises/medium/ex3-resolution-checker.js",173,0,"l",javascript,content
+253,612285,"exercises/medium/ex3-resolution-checker.js",174,0,"a",javascript,content
+254,612494,"exercises/medium/ex3-resolution-checker.js",175,0,"n",javascript,content
+255,612568,"exercises/medium/ex3-resolution-checker.js",176,0,"d",javascript,content
+256,613569,"exercises/medium/ex3-resolution-checker.js",176,1,"",javascript,content
+257,613674,"exercises/medium/ex3-resolution-checker.js",175,1,"",javascript,content
+258,613818,"exercises/medium/ex3-resolution-checker.js",174,1,"",javascript,content
+259,614309,"exercises/medium/ex3-resolution-checker.js",173,1,"",javascript,content
+259,614309,"exercises/medium/ex3-resolution-checker.js",173,1,"",javascript,content
+260,614310,"exercises/medium/ex3-resolution-checker.js",172,2,"",javascript,content
+261,619570,"exercises/medium/ex3-resolution-checker.js",171,2,"",javascript,content
+262,619712,"exercises/medium/ex3-resolution-checker.js",170,1,"",javascript,content
+263,619906,"exercises/medium/ex3-resolution-checker.js",169,1,"",javascript,content
+264,620074,"exercises/medium/ex3-resolution-checker.js",168,1,"",javascript,content
+265,620259,"exercises/medium/ex3-resolution-checker.js",167,1,"",javascript,content
