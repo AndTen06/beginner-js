@@ -1,0 +1,1 @@
+[{"sequence":1,"file":"exercises/easy/ex1-hello-world.js","startTime":9,"endTime":7404,"language":"javascript","text":"function helloWorld() {\n  // write a function that prints \"Hello World!\" to the console\n}\n\nmodule.exports = helloWorld;\n"}]
