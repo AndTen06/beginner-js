@@ -1,6 +1,6 @@
 function helloWorld() {
   // write a function that prints "Hello World!" to the console
-  print("Hello World!add")
+  print("Hello World!")
 }
 
 module.exports = helloWorld;

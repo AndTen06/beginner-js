@@ -1,0 +1,1030 @@
+Sequence,Time,File,RangeOffset,RangeLength,Text,Language,Type
+1,29,"extension-output-MattiaConsiglio.vs-code-recorder-#1-VS Code Recorder",0,0,"6:33:24 PM [info] Activating VS Code Recorder\n",Log,tab
+2,231,"extension-output-MattiaConsiglio.vs-code-recorder-#1-VS Code Recorder",46,0,"6:34:51 PM [info] Recording started\n",Log,content
+3,7149,"exercises/easy/ex1-hello-world.js",0,0,"function helloWorld() {\n  // write a function that prints ""Hello World!"" to the console\n  print(""Hello World!add"")\n}\n\nmodule.exports = helloWorld;\n",javascript,tab
+4,11019,"exercises/easy/ex1-hello-world.js",109,3,"",javascript,content
+5,13586,"exercises/easy/ex2-type-checker.js",0,0,"function showAllTypes() {\n  /* Create a function that outputs the typeof for:\n  objects, arrays, strings, numbers, booleans, null, undefined, and NaN It should return an object containing all these types */\nshowAllTypes(varaible);\n\nreturn typeof(varaible);\n}\n\nmodule.exports = showAllTypes;\n",javascript,tab
+6,42171,"exercises/easy/ex6-name-screamer.js",0,0,"function screamName(name) {\n  /* take a name as input and return it in ALL CAPS with exclamation marks */\n\n  name = anderson\n  CAP = name.upper();\n  print(CAP);\n}\n\nmodule.exports = screamName;\n",javascript,tab
+7,87809,"exercises/easy/ex6-name-screamer.js",108,16,"",javascript,content
+8,88148,"exercises/easy/ex6-name-screamer.js",107,1,"",javascript,content
+9,89427,"exercises/easy/ex6-name-screamer.js",106,1,"",javascript,content
+10,94522,"exercises/medium/ex3-resolution-checker.js",0,0,"function checkResolution(width, height) {\n  // Return ""landscape"" if width is greater than height\n  // Return ""portrait"" if height is greater than or equal to width\n}\n\nmodule.exports = checkResolution;\n",javascript,tab
+11,118404,"exercises/medium/ex3-resolution-checker.js",167,0,"i",javascript,content
+12,118469,"exercises/medium/ex3-resolution-checker.js",168,0,"f",javascript,content
+13,118665,"exercises/medium/ex3-resolution-checker.js",169,0," ",javascript,content
+14,120189,"exercises/medium/ex3-resolution-checker.js",170,0,"()",javascript,content
+15,121294,"exercises/medium/ex3-resolution-checker.js",170,2,"",javascript,content
+16,121490,"exercises/medium/ex3-resolution-checker.js",169,1,"",javascript,content
+17,121660,"exercises/medium/ex3-resolution-checker.js",168,1,"",javascript,content
+18,121862,"exercises/medium/ex3-resolution-checker.js",167,1,"",javascript,content
+19,123683,"exercises/medium/ex3-resolution-checker.js",164,0,"\n  ",javascript,content
+20,123836,"exercises/medium/ex3-resolution-checker.js",167,0,"\n  ",javascript,content
+20,123836,"exercises/medium/ex3-resolution-checker.js",167,0,"\n  ",javascript,content
+21,123836,"exercises/medium/ex3-resolution-checker.js",165,2,"",javascript,content
+22,124722,"exercises/medium/ex3-resolution-checker.js",168,0,"i",javascript,content
+23,124835,"exercises/medium/ex3-resolution-checker.js",169,0,"f",javascript,content
+24,124999,"exercises/medium/ex3-resolution-checker.js",170,0," ",javascript,content
+25,127366,"exercises/medium/ex3-resolution-checker.js",171,0,"l",javascript,content
+26,127660,"exercises/medium/ex3-resolution-checker.js",172,0,"a",javascript,content
+27,128616,"exercises/medium/ex3-resolution-checker.js",173,0,"n",javascript,content
+28,129445,"exercises/medium/ex3-resolution-checker.js",173,1,"",javascript,content
+29,129511,"exercises/medium/ex3-resolution-checker.js",172,1,"",javascript,content
+30,130043,"exercises/medium/ex3-resolution-checker.js",171,1,"",javascript,content
+31,130879,"exercises/medium/ex3-resolution-checker.js",171,0,"()",javascript,content
+32,133732,"exercises/medium/ex3-resolution-checker.js",172,0,"l",javascript,content
+33,133872,"exercises/medium/ex3-resolution-checker.js",173,0,"a",javascript,content
+34,134074,"exercises/medium/ex3-resolution-checker.js",174,0,"n",javascript,content
+35,134202,"exercises/medium/ex3-resolution-checker.js",175,0,"d",javascript,content
+36,134427,"exercises/medium/ex3-resolution-checker.js",176,0,"s",javascript,content
+37,134833,"exercises/medium/ex3-resolution-checker.js",177,0,"c",javascript,content
+38,135268,"exercises/medium/ex3-resolution-checker.js",177,1,"",javascript,content
+39,135637,"exercises/medium/ex3-resolution-checker.js",177,0,"o",javascript,content
+40,135781,"exercises/medium/ex3-resolution-checker.js",178,0,"c",javascript,content
+41,136094,"exercises/medium/ex3-resolution-checker.js",179,0,"a",javascript,content
+42,136574,"exercises/medium/ex3-resolution-checker.js",179,1,"",javascript,content
+43,136685,"exercises/medium/ex3-resolution-checker.js",178,1,"",javascript,content
+44,137279,"exercises/medium/ex3-resolution-checker.js",177,1,"",javascript,content
+45,167131,"exercises/medium/ex3-resolution-checker.js",176,1,"",javascript,content
+46,167295,"exercises/medium/ex3-resolution-checker.js",175,1,"",javascript,content
+47,167451,"exercises/medium/ex3-resolution-checker.js",174,1,"",javascript,content
+48,167601,"exercises/medium/ex3-resolution-checker.js",173,1,"",javascript,content
+49,167847,"exercises/medium/ex3-resolution-checker.js",172,1,"",javascript,content
+50,167977,"exercises/medium/ex3-resolution-checker.js",172,0,"w",javascript,content
+51,168518,"exercises/medium/ex3-resolution-checker.js",173,0,"i",javascript,content
+52,168608,"exercises/medium/ex3-resolution-checker.js",174,0,"d",javascript,content
+53,168812,"exercises/medium/ex3-resolution-checker.js",175,0,"t",javascript,content
+54,168959,"exercises/medium/ex3-resolution-checker.js",176,0,"h",javascript,content
+55,169139,"exercises/medium/ex3-resolution-checker.js",177,0," ",javascript,content
+56,170289,"exercises/medium/ex3-resolution-checker.js",178,0,">",javascript,content
+57,170511,"exercises/medium/ex3-resolution-checker.js",179,0," ",javascript,content
+58,170899,"exercises/medium/ex3-resolution-checker.js",180,0,"h",javascript,content
+59,171002,"exercises/medium/ex3-resolution-checker.js",181,0,"e",javascript,content
+60,171125,"exercises/medium/ex3-resolution-checker.js",182,0,"i",javascript,content
+61,171272,"exercises/medium/ex3-resolution-checker.js",183,0,"g",javascript,content
+62,171388,"exercises/medium/ex3-resolution-checker.js",184,0,"h",javascript,content
+63,171525,"exercises/medium/ex3-resolution-checker.js",185,0,"t",javascript,content
+64,173487,"exercises/medium/ex3-resolution-checker.js",187,0,"\n    ",javascript,content
+65,174773,"exercises/medium/ex3-resolution-checker.js",192,0,"\n    ",javascript,content
+65,174773,"exercises/medium/ex3-resolution-checker.js",192,0,"\n    ",javascript,content
+66,174773,"exercises/medium/ex3-resolution-checker.js",188,4,"",javascript,content
+67,174996,"exercises/medium/ex3-resolution-checker.js",193,0,"r",javascript,content
+68,175228,"exercises/medium/ex3-resolution-checker.js",194,0,"e",javascript,content
+69,175808,"exercises/medium/ex3-resolution-checker.js",195,0,"t",javascript,content
+70,175981,"exercises/medium/ex3-resolution-checker.js",196,0,"u",javascript,content
+71,176089,"exercises/medium/ex3-resolution-checker.js",197,0,"r",javascript,content
+72,176217,"exercises/medium/ex3-resolution-checker.js",198,0,"n",javascript,content
+73,176795,"exercises/medium/ex3-resolution-checker.js",199,0," ",javascript,content
+74,182725,"exercises/medium/ex3-resolution-checker.js",200,0,"l",javascript,content
+75,182865,"exercises/medium/ex3-resolution-checker.js",201,0,"a",javascript,content
+76,183000,"exercises/medium/ex3-resolution-checker.js",202,0,"n",javascript,content
+77,183127,"exercises/medium/ex3-resolution-checker.js",203,0,"d",javascript,content
+78,183501,"exercises/medium/ex3-resolution-checker.js",204,0,"s",javascript,content
+79,187155,"exercises/medium/ex3-resolution-checker.js",204,1,"",javascript,content
+80,187658,"exercises/medium/ex3-resolution-checker.js",203,1,"",javascript,content
+81,187796,"exercises/medium/ex3-resolution-checker.js",202,1,"",javascript,content
+82,188132,"exercises/medium/ex3-resolution-checker.js",201,1,"",javascript,content
+83,188872,"exercises/medium/ex3-resolution-checker.js",200,1,"",javascript,content
+84,198186,"exercises/medium/ex3-resolution-checker.js",200,0,"""""",javascript,content
+85,199690,"exercises/medium/ex3-resolution-checker.js",201,0,"l",javascript,content
+86,199792,"exercises/medium/ex3-resolution-checker.js",202,0,"a",javascript,content
+87,199976,"exercises/medium/ex3-resolution-checker.js",203,0,"n",javascript,content
+88,200077,"exercises/medium/ex3-resolution-checker.js",204,0,"d",javascript,content
+89,200267,"exercises/medium/ex3-resolution-checker.js",205,0,"s",javascript,content
+90,200420,"exercises/medium/ex3-resolution-checker.js",206,0,"o",javascript,content
+91,200536,"exercises/medium/ex3-resolution-checker.js",207,0,"c",javascript,content
+92,200967,"exercises/medium/ex3-resolution-checker.js",207,1,"",javascript,content
+93,201338,"exercises/medium/ex3-resolution-checker.js",206,1,"",javascript,content
+94,201929,"exercises/medium/ex3-resolution-checker.js",206,0,"p",javascript,content
+95,201983,"exercises/medium/ex3-resolution-checker.js",207,0,"c",javascript,content
+96,202243,"exercises/medium/ex3-resolution-checker.js",208,0,"a",javascript,content
+97,203182,"exercises/medium/ex3-resolution-checker.js",208,1,"",javascript,content
+98,203425,"exercises/medium/ex3-resolution-checker.js",207,1,"",javascript,content
+99,203562,"exercises/medium/ex3-resolution-checker.js",207,0,"a",javascript,content
+100,203768,"exercises/medium/ex3-resolution-checker.js",208,0,"c",javascript,content
+101,203961,"exercises/medium/ex3-resolution-checker.js",209,0,"e",javascript,content
+102,205748,"exercises/medium/ex3-resolution-checker.js",211,0,";",javascript,content
+103,208403,"exercises/medium/ex3-resolution-checker.js",206,1,"",javascript,content
+104,209094,"exercises/medium/ex3-resolution-checker.js",206,0,"c",javascript,content
+105,210444,"exercises/medium/ex3-resolution-checker.js",208,1,"",javascript,content
+106,211139,"exercises/medium/ex3-resolution-checker.js",208,0,"p",javascript,content
+107,212559,"exercises/medium/ex3-resolution-checker.js",212,0,"\n    ",javascript,content
+108,221932,"exercises/medium/ex3-resolution-checker.js",217,0,"\n    ",javascript,content
+108,221932,"exercises/medium/ex3-resolution-checker.js",217,0,"\n    ",javascript,content
+109,221933,"exercises/medium/ex3-resolution-checker.js",213,4,"",javascript,content
+110,233783,"exercises/medium/ex3-resolution-checker.js",218,0,"i",javascript,content
+111,233908,"exercises/medium/ex3-resolution-checker.js",219,0,"f",javascript,content
+112,234768,"exercises/medium/ex3-resolution-checker.js",220,0," ",javascript,content
+113,241104,"exercises/medium/ex3-resolution-checker.js",213,0,"}",javascript,content
+114,245591,"exercises/medium/ex3-resolution-checker.js",218,0,"{}",javascript,content
+115,246172,"exercises/medium/ex3-resolution-checker.js",219,0,"\n    \n   ",javascript,content
+116,248592,"exercises/medium/ex3-resolution-checker.js",232,1,"",javascript,content
+116,248592,"exercises/medium/ex3-resolution-checker.js",232,1,"",javascript,content
+117,248592,"exercises/medium/ex3-resolution-checker.js",220,4,"",javascript,content
+118,248746,"exercises/medium/ex3-resolution-checker.js",227,1,"",javascript,content
+119,248917,"exercises/medium/ex3-resolution-checker.js",226,1,"",javascript,content
+120,254548,"exercises/medium/ex3-resolution-checker.js",219,0," ",javascript,content
+121,254724,"exercises/medium/ex3-resolution-checker.js",220,0,"i",javascript,content
+122,254809,"exercises/medium/ex3-resolution-checker.js",221,0,"f",javascript,content
+123,254989,"exercises/medium/ex3-resolution-checker.js",222,0," ",javascript,content
+124,256077,"exercises/medium/ex3-resolution-checker.js",223,0,"()",javascript,content
+125,257499,"exercises/medium/ex3-resolution-checker.js",224,0,"h",javascript,content
+126,257604,"exercises/medium/ex3-resolution-checker.js",225,0,"e",javascript,content
+127,257747,"exercises/medium/ex3-resolution-checker.js",226,0,"i",javascript,content
+128,257967,"exercises/medium/ex3-resolution-checker.js",227,0,"g",javascript,content
+129,258111,"exercises/medium/ex3-resolution-checker.js",228,0,"h",javascript,content
+130,258220,"exercises/medium/ex3-resolution-checker.js",229,0,"t",javascript,content
+131,258671,"exercises/medium/ex3-resolution-checker.js",230,0," ",javascript,content
+132,260011,"exercises/medium/ex3-resolution-checker.js",231,0,">",javascript,content
+133,260679,"exercises/medium/ex3-resolution-checker.js",232,0,"=",javascript,content
+134,261146,"exercises/medium/ex3-resolution-checker.js",233,0," ",javascript,content
+135,263011,"exercises/medium/ex3-resolution-checker.js",219,1,"",javascript,content
+136,263399,"exercises/medium/ex3-resolution-checker.js",218,1,"",javascript,content
+137,297452,"exercises/medium/ex3-resolution-checker.js",188,0,"{}",javascript,content
+138,299529,"exercises/medium/ex3-resolution-checker.js",189,1,"",javascript,content
+139,304119,"exercises/medium/ex3-resolution-checker.js",233,0,"w",javascript,content
+140,304417,"exercises/medium/ex3-resolution-checker.js",234,0,"e",javascript,content
+141,304567,"exercises/medium/ex3-resolution-checker.js",235,0,"i",javascript,content
+142,304786,"exercises/medium/ex3-resolution-checker.js",236,0,"g",javascript,content
+143,304950,"exercises/medium/ex3-resolution-checker.js",237,0,"h",javascript,content
+144,305131,"exercises/medium/ex3-resolution-checker.js",238,0,"t",javascript,content
+145,307880,"exercises/medium/ex3-resolution-checker.js",241,0,"{}",javascript,content
+146,309816,"exercises/medium/ex3-resolution-checker.js",242,1,"",javascript,content
+147,314595,"exercises/medium/ex3-resolution-checker.js",237,1,"",javascript,content
+148,314725,"exercises/medium/ex3-resolution-checker.js",236,1,"",javascript,content
+149,314869,"exercises/medium/ex3-resolution-checker.js",235,1,"",javascript,content
+150,315409,"exercises/medium/ex3-resolution-checker.js",234,1,"",javascript,content
+151,315967,"exercises/medium/ex3-resolution-checker.js",234,0,"i",javascript,content
+152,316056,"exercises/medium/ex3-resolution-checker.js",235,0,"d",javascript,content
+153,316346,"exercises/medium/ex3-resolution-checker.js",236,0,"t",javascript,content
+154,317148,"exercises/medium/ex3-resolution-checker.js",236,1,"",javascript,content
+155,318090,"exercises/medium/ex3-resolution-checker.js",237,0,"h",javascript,content
+156,319865,"exercises/medium/ex3-resolution-checker.js",241,0," ",javascript,content
+157,320530,"exercises/medium/ex3-resolution-checker.js",242,0,"  ",javascript,content
+158,321214,"exercises/medium/ex3-resolution-checker.js",244,0,"r",javascript,content
+159,321474,"exercises/medium/ex3-resolution-checker.js",245,0,"e",javascript,content
+160,321773,"exercises/medium/ex3-resolution-checker.js",246,0,"t",javascript,content
+161,321974,"exercises/medium/ex3-resolution-checker.js",247,0,"u",javascript,content
+162,322119,"exercises/medium/ex3-resolution-checker.js",248,0,"r",javascript,content
+163,322207,"exercises/medium/ex3-resolution-checker.js",249,0,"n",javascript,content
+164,322577,"exercises/medium/ex3-resolution-checker.js",250,0," ",javascript,content
+165,325241,"exercises/medium/ex3-resolution-checker.js",251,0,"""""",javascript,content
+166,325544,"exercises/medium/ex3-resolution-checker.js",252,0,"p",javascript,content
+167,325661,"exercises/medium/ex3-resolution-checker.js",253,0,"r",javascript,content
+168,325845,"exercises/medium/ex3-resolution-checker.js",254,0,"o",javascript,content
+169,326530,"exercises/medium/ex3-resolution-checker.js",255,0,"t",javascript,content
+170,326971,"exercises/medium/ex3-resolution-checker.js",256,0,"r",javascript,content
+171,327270,"exercises/medium/ex3-resolution-checker.js",257,0,"a",javascript,content
+172,327394,"exercises/medium/ex3-resolution-checker.js",258,0,"i",javascript,content
+173,327591,"exercises/medium/ex3-resolution-checker.js",259,0,"t",javascript,content
+174,331862,"exercises/medium/ex3-resolution-checker.js",261,0,";",javascript,content
+175,334203,"exercises/medium/ex3-resolution-checker.js",254,1,"",javascript,content
+176,334319,"exercises/medium/ex3-resolution-checker.js",253,1,"",javascript,content
+177,334873,"exercises/medium/ex3-resolution-checker.js",253,0,"o",javascript,content
+178,334959,"exercises/medium/ex3-resolution-checker.js",254,0,"r",javascript,content
+179,337168,"exercises/medium/ex4-dice-roller.js",0,0,"function rollDice() {\n  /* return a random number between 1 and 6, simulating a dice roll */\n}\n\nmodule.exports = rollDice;\n",javascript,tab
+180,344540,"exercises/medium/ex4-dice-roller.js",92,0,"\n  ",javascript,content
+181,345362,"exercises/medium/ex4-dice-roller.js",95,0,"\n  ",javascript,content
+181,345362,"exercises/medium/ex4-dice-roller.js",95,0,"\n  ",javascript,content
+182,345362,"exercises/medium/ex4-dice-roller.js",93,2,"",javascript,content
+183,361166,"exercises/medium/ex4-dice-roller.js",96,0,"M",javascript,content
+184,361393,"exercises/medium/ex4-dice-roller.js",97,0,"a",javascript,content
+185,361485,"exercises/medium/ex4-dice-roller.js",98,0,"t",javascript,content
+186,361648,"exercises/medium/ex4-dice-roller.js",99,0,"h",javascript,content
+187,362366,"exercises/medium/ex4-dice-roller.js",96,4,"Math",javascript,content
+187,362366,"exercises/medium/ex4-dice-roller.js",96,4,"Math",javascript,content
+188,362367,"exercises/medium/ex4-dice-roller.js",100,0,".",javascript,content
+189,364097,"exercises/medium/ex4-dice-roller.js",101,0,"r",javascript,content
+190,364360,"exercises/medium/ex4-dice-roller.js",102,0,"a",javascript,content
+191,364521,"exercises/medium/ex4-dice-roller.js",103,0,"n",javascript,content
+192,364650,"exercises/medium/ex4-dice-roller.js",104,0,"d",javascript,content
+193,364813,"exercises/medium/ex4-dice-roller.js",105,0,"o",javascript,content
+194,364996,"exercises/medium/ex4-dice-roller.js",106,0,"m",javascript,content
+195,365795,"exercises/medium/ex4-dice-roller.js",100,7,".random",javascript,content
+195,365795,"exercises/medium/ex4-dice-roller.js",100,7,".random",javascript,content
+196,365795,"exercises/medium/ex4-dice-roller.js",107,0,"()",javascript,content
+197,431653,"exercises/medium/ex4-dice-roller.js",108,0,"M",javascript,content
+198,431925,"exercises/medium/ex4-dice-roller.js",109,0,"a",javascript,content
+199,432034,"exercises/medium/ex4-dice-roller.js",110,0,"t",javascript,content
+200,432234,"exercises/medium/ex4-dice-roller.js",111,0,"h",javascript,content
+201,433744,"exercises/medium/ex4-dice-roller.js",111,1,"",javascript,content
+202,433836,"exercises/medium/ex4-dice-roller.js",110,1,"",javascript,content
+203,433981,"exercises/medium/ex4-dice-roller.js",109,1,"",javascript,content
+204,434226,"exercises/medium/ex4-dice-roller.js",108,1,"",javascript,content
+205,437382,"exercises/medium/ex4-dice-roller.js",106,1,"",javascript,content
+206,437520,"exercises/medium/ex4-dice-roller.js",105,1,"",javascript,content
+207,437650,"exercises/medium/ex4-dice-roller.js",104,1,"",javascript,content
+208,437811,"exercises/medium/ex4-dice-roller.js",103,1,"",javascript,content
+209,437969,"exercises/medium/ex4-dice-roller.js",102,1,"",javascript,content
+210,438197,"exercises/medium/ex4-dice-roller.js",101,1,"",javascript,content
+211,438643,"exercises/medium/ex4-dice-roller.js",101,0,"4",javascript,content
+212,441719,"exercises/medium/ex4-dice-roller.js",101,1,"",javascript,content
+213,442227,"exercises/medium/ex4-dice-roller.js",101,0,"f",javascript,content
+214,442403,"exercises/medium/ex4-dice-roller.js",102,0,"l",javascript,content
+215,442607,"exercises/medium/ex4-dice-roller.js",103,0,"o",javascript,content
+216,442708,"exercises/medium/ex4-dice-roller.js",104,0,"o",javascript,content
+217,442761,"exercises/medium/ex4-dice-roller.js",105,0,"r",javascript,content
+218,449529,"exercises/medium/ex4-dice-roller.js",107,0,"M",javascript,content
+219,449755,"exercises/medium/ex4-dice-roller.js",108,0,"a",javascript,content
+220,449921,"exercises/medium/ex4-dice-roller.js",109,0,"t",javascript,content
+221,450067,"exercises/medium/ex4-dice-roller.js",110,0,"h",javascript,content
+222,450681,"exercises/medium/ex4-dice-roller.js",107,4,"Math",javascript,content
+222,450681,"exercises/medium/ex4-dice-roller.js",107,4,"Math",javascript,content
+223,450682,"exercises/medium/ex4-dice-roller.js",111,0,".",javascript,content
+224,450812,"exercises/medium/ex4-dice-roller.js",112,0,"r",javascript,content
+225,451033,"exercises/medium/ex4-dice-roller.js",113,0,"a",javascript,content
+226,451167,"exercises/medium/ex4-dice-roller.js",114,0,"n",javascript,content
+227,451291,"exercises/medium/ex4-dice-roller.js",115,0,"d",javascript,content
+228,451384,"exercises/medium/ex4-dice-roller.js",116,0,"o",javascript,content
+229,451547,"exercises/medium/ex4-dice-roller.js",117,0,"m",javascript,content
+230,475061,"exercises/medium/ex4-dice-roller.js",119,0," ",javascript,content
+231,477236,"exercises/medium/ex4-dice-roller.js",120,0,"()",javascript,content
+232,478989,"exercises/medium/ex4-dice-roller.js",120,2,"",javascript,content
+233,481026,"exercises/medium/ex4-dice-roller.js",118,0,"()",javascript,content
+234,500531,"exercises/medium/ex4-dice-roller.js",119,0," ",javascript,content
+235,501461,"exercises/medium/ex4-dice-roller.js",119,1,"",javascript,content
+236,505121,"exercises/medium/ex4-dice-roller.js",120,0,"*",javascript,content
+237,505725,"exercises/medium/ex4-dice-roller.js",121,0," ",javascript,content
+238,510299,"exercises/medium/ex4-dice-roller.js",122,0,"6",javascript,content
+239,512756,"exercises/medium/ex4-dice-roller.js",122,1,"",javascript,content
+240,518687,"exercises/medium/ex4-dice-roller.js",122,0,"7",javascript,content
+241,520180,"exercises/medium/ex4-dice-roller.js",123,0," ",javascript,content
+242,524155,"exercises/medium/ex4-dice-roller.js",123,1,"",javascript,content
+243,527165,"exercises/medium/ex4-dice-roller.js",124,1,"",javascript,content
+244,527453,"exercises/medium/ex4-dice-roller.js",124,0,";",javascript,content
+245,530061,"exercises/medium/ex9-reverse-string.js",0,0,"function reverseString(str) {\n  /* take a string as input and return it reversed Example: ""hello"" -> ""olleh"" */\n}\n\nmodule.exports = reverseString;\n",javascript,tab
+246,566246,"exercises/medium/ex9-reverse-string.js",112,0,"\n",javascript,content
+247,592589,"exercises/medium/ex9-reverse-string.js",112,0,"r",javascript,content
+248,592749,"exercises/medium/ex9-reverse-string.js",113,0,"e",javascript,content
+249,592893,"exercises/medium/ex9-reverse-string.js",114,0,"t",javascript,content
+250,593337,"exercises/medium/ex9-reverse-string.js",115,0,"u",javascript,content
+251,593476,"exercises/medium/ex9-reverse-string.js",116,0,"r",javascript,content
+252,593598,"exercises/medium/ex9-reverse-string.js",117,0,"n",javascript,content
+253,595106,"exercises/medium/ex9-reverse-string.js",118,0," ",javascript,content
+254,595346,"exercises/medium/ex9-reverse-string.js",119,0,"s",javascript,content
+255,595506,"exercises/medium/ex9-reverse-string.js",120,0,"t",javascript,content
+256,595586,"exercises/medium/ex9-reverse-string.js",121,0,"r",javascript,content
+257,596363,"exercises/medium/ex9-reverse-string.js",119,3,"str",javascript,content
+257,596363,"exercises/medium/ex9-reverse-string.js",119,3,"str",javascript,content
+258,596363,"exercises/medium/ex9-reverse-string.js",122,0,".",javascript,content
+259,597088,"exercises/medium/ex9-reverse-string.js",123,0,"s",javascript,content
+260,597310,"exercises/medium/ex9-reverse-string.js",124,0,"p",javascript,content
+261,597504,"exercises/medium/ex9-reverse-string.js",125,0,"l",javascript,content
+262,598114,"exercises/medium/ex9-reverse-string.js",126,0,"i",javascript,content
+263,598349,"exercises/medium/ex9-reverse-string.js",127,0,"y",javascript,content
+264,598883,"exercises/medium/ex9-reverse-string.js",127,1,"",javascript,content
+265,599832,"exercises/medium/ex9-reverse-string.js",127,0,"t",javascript,content
+266,600815,"exercises/medium/ex9-reverse-string.js",128,0,"()",javascript,content
+267,602093,"exercises/medium/ex9-reverse-string.js",129,0,"""""",javascript,content
+268,604435,"exercises/medium/ex9-reverse-string.js",131,0,".",javascript,content
+269,604967,"exercises/medium/ex9-reverse-string.js",132,0,"r",javascript,content
+270,605165,"exercises/medium/ex9-reverse-string.js",133,0,"e",javascript,content
+271,605426,"exercises/medium/ex9-reverse-string.js",134,0,"v",javascript,content
+272,605643,"exercises/medium/ex9-reverse-string.js",135,0,"e",javascript,content
+273,605700,"exercises/medium/ex9-reverse-string.js",136,0,"r",javascript,content
+274,606016,"exercises/medium/ex9-reverse-string.js",137,0,"s",javascript,content
+275,606302,"exercises/medium/ex9-reverse-string.js",138,0,"e",javascript,content
+276,608100,"exercises/medium/ex9-reverse-string.js",139,0,"()",javascript,content
+277,609892,"exercises/medium/ex9-reverse-string.js",139,2,"",javascript,content
+278,613570,"exercises/medium/ex9-reverse-string.js",131,0,")",javascript,content
+279,615741,"exercises/medium/ex9-reverse-string.js",140,1,"",javascript,content
+280,622928,"exercises/medium/ex9-reverse-string.js",130,1,"",javascript,content
+281,623092,"exercises/medium/ex9-reverse-string.js",129,1,"",javascript,content
+282,624072,"exercises/medium/ex9-reverse-string.js",129,0,"''",javascript,content
+283,625558,"exercises/medium/ex9-reverse-string.js",130,0," ",javascript,content
+284,629677,"exercises/medium/ex9-reverse-string.js",141,0,"()",javascript,content
+285,630998,"exercises/medium/ex9-reverse-string.js",143,0,".",javascript,content
+286,631283,"exercises/medium/ex9-reverse-string.js",144,0,"j",javascript,content
+287,631469,"exercises/medium/ex9-reverse-string.js",145,0,"o",javascript,content
+288,631653,"exercises/medium/ex9-reverse-string.js",146,0,"i",javascript,content
+289,631849,"exercises/medium/ex9-reverse-string.js",147,0,"n",javascript,content
+290,632807,"exercises/medium/ex9-reverse-string.js",148,0,"()",javascript,content
+291,633989,"exercises/medium/ex9-reverse-string.js",149,0,"''",javascript,content
+292,636166,"exercises/medium/ex9-reverse-string.js",151,0,";",javascript,content
+293,642255,"exercises/medium/ex9-reverse-string.js",151,1,"",javascript,content
+294,643252,"exercises/medium/ex9-reverse-string.js",152,0,";",javascript,content
+295,668464,"exercises/hard/ex5-template-lyrics.js",0,0,"function createLyrics(songData) {\n  // Use template literals to create lyrics from the songData object\n  // The songData object will have properties like artist, title, verse, chorus\n  // Return the formatted lyrics string\n}\n\nmodule.exports = createLyrics;\n",javascript,tab
+296,780390,"exercises/hard/ex5-template-lyrics.js",222,0,"\n  ",javascript,content
+297,780519,"exercises/hard/ex5-template-lyrics.js",225,0,"\n  ",javascript,content
+297,780519,"exercises/hard/ex5-template-lyrics.js",225,0,"\n  ",javascript,content
+298,780519,"exercises/hard/ex5-template-lyrics.js",223,2,"",javascript,content
+299,870368,"exercises/hard/ex5-template-lyrics.js",226,0,"r",javascript,content
+300,870578,"exercises/hard/ex5-template-lyrics.js",227,0,"e",javascript,content
+301,870677,"exercises/hard/ex5-template-lyrics.js",228,0,"t",javascript,content
+302,870875,"exercises/hard/ex5-template-lyrics.js",229,0,"u",javascript,content
+303,870964,"exercises/hard/ex5-template-lyrics.js",230,0,"r",javascript,content
+304,871087,"exercises/hard/ex5-template-lyrics.js",231,0,"n",javascript,content
+305,872005,"exercises/hard/ex5-template-lyrics.js",232,0," ",javascript,content
+306,872790,"exercises/hard/ex5-template-lyrics.js",233,0,"()",javascript,content
+307,874333,"exercises/hard/ex5-template-lyrics.js",234,0,"s",javascript,content
+308,874593,"exercises/hard/ex5-template-lyrics.js",235,0,"t",javascript,content
+309,874680,"exercises/hard/ex5-template-lyrics.js",236,0,"r",javascript,content
+310,874868,"exercises/hard/ex5-template-lyrics.js",237,0,"i",javascript,content
+311,875002,"exercises/hard/ex5-template-lyrics.js",238,0,"n",javascript,content
+312,875143,"exercises/hard/ex5-template-lyrics.js",239,0,"g",javascript,content
+313,877007,"exercises/hard/ex5-template-lyrics.js",240,0,"\",javascript,content
+314,878205,"exercises/hard/ex5-template-lyrics.js",240,1,"",javascript,content
+315,878355,"exercises/hard/ex5-template-lyrics.js",239,1,"",javascript,content
+316,878485,"exercises/hard/ex5-template-lyrics.js",238,1,"",javascript,content
+317,878632,"exercises/hard/ex5-template-lyrics.js",237,1,"",javascript,content
+318,878785,"exercises/hard/ex5-template-lyrics.js",236,1,"",javascript,content
+319,878925,"exercises/hard/ex5-template-lyrics.js",235,1,"",javascript,content
+320,879352,"exercises/hard/ex5-template-lyrics.js",234,1,"",javascript,content
+321,883520,"exercises/hard/ex5-template-lyrics.js",234,0,"""""",javascript,content
+322,884615,"exercises/hard/ex5-template-lyrics.js",234,2,"",javascript,content
+323,884766,"exercises/hard/ex5-template-lyrics.js",233,2,"",javascript,content
+324,911669,"exercises/hard/ex5-template-lyrics.js",233,0,"''",javascript,content
+325,916261,"exercises/hard/ex5-template-lyrics.js",233,2,"",javascript,content
+326,917812,"exercises/hard/ex5-template-lyrics.js",233,0,"``",javascript,content
+327,1010907,"exercises/hard/ex5-template-lyrics.js",234,0,"""",javascript,content
+328,1011529,"exercises/hard/ex5-template-lyrics.js",234,1,"",javascript,content
+329,1013698,"exercises/hard/ex5-template-lyrics.js",234,0,"M",javascript,content
+330,1013882,"exercises/hard/ex5-template-lyrics.js",235,0,"Y",javascript,content
+331,1014539,"exercises/hard/ex5-template-lyrics.js",236,0,"=",javascript,content
+332,1015160,"exercises/hard/ex5-template-lyrics.js",236,1,"",javascript,content
+333,1015398,"exercises/hard/ex5-template-lyrics.js",235,1,"",javascript,content
+334,1016102,"exercises/hard/ex5-template-lyrics.js",235,0,"y",javascript,content
+335,1016270,"exercises/hard/ex5-template-lyrics.js",236,0," ",javascript,content
+336,1016813,"exercises/hard/ex5-template-lyrics.js",236,1,"",javascript,content
+337,1016924,"exercises/hard/ex5-template-lyrics.js",235,1,"",javascript,content
+338,1017047,"exercises/hard/ex5-template-lyrics.js",234,1,"",javascript,content
+339,1019627,"exercises/hard/ex5-template-lyrics.js",234,0,"J",javascript,content
+340,1019856,"exercises/hard/ex5-template-lyrics.js",235,0,"o",javascript,content
+341,1020123,"exercises/hard/ex5-template-lyrics.js",236,0,"h",javascript,content
+342,1021197,"exercises/hard/ex5-template-lyrics.js",236,1,"",javascript,content
+343,1021377,"exercises/hard/ex5-template-lyrics.js",235,1,"",javascript,content
+344,1021683,"exercises/hard/ex5-template-lyrics.js",234,1,"",javascript,content
+345,1098237,"exercises/hard/ex5-template-lyrics.js",234,0,"s",javascript,content
+346,1099049,"exercises/hard/ex5-template-lyrics.js",235,0,"o",javascript,content
+347,1099313,"exercises/hard/ex5-template-lyrics.js",236,0,"n",javascript,content
+348,1099675,"exercises/hard/ex5-template-lyrics.js",237,0,"g",javascript,content
+349,1100034,"exercises/hard/ex5-template-lyrics.js",237,1,"",javascript,content
+350,1100136,"exercises/hard/ex5-template-lyrics.js",236,1,"",javascript,content
+351,1100293,"exercises/hard/ex5-template-lyrics.js",235,1,"",javascript,content
+352,1100411,"exercises/hard/ex5-template-lyrics.js",234,1,"",javascript,content
+353,1169608,"exercises/hard/ex5-template-lyrics.js",234,0,"$",javascript,content
+354,1172517,"exercises/hard/ex5-template-lyrics.js",235,0,"[]",javascript,content
+355,1173455,"exercises/hard/ex5-template-lyrics.js",235,2,"",javascript,content
+356,1173945,"exercises/hard/ex5-template-lyrics.js",235,0,"{}",javascript,content
+357,1176395,"exercises/hard/ex5-template-lyrics.js",236,0,"s",javascript,content
+358,1176525,"exercises/hard/ex5-template-lyrics.js",237,0,"o",javascript,content
+359,1176730,"exercises/hard/ex5-template-lyrics.js",238,0,"m",javascript,content
+360,1176961,"exercises/hard/ex5-template-lyrics.js",239,0,"g",javascript,content
+361,1177334,"exercises/hard/ex5-template-lyrics.js",239,1,"",javascript,content
+362,1177501,"exercises/hard/ex5-template-lyrics.js",238,1,"",javascript,content
+363,1178377,"exercises/hard/ex5-template-lyrics.js",238,0,"n",javascript,content
+364,1178656,"exercises/hard/ex5-template-lyrics.js",239,0,"g",javascript,content
+365,1178922,"exercises/hard/ex5-template-lyrics.js",240,0,"D",javascript,content
+366,1179141,"exercises/hard/ex5-template-lyrics.js",241,0,"e",javascript,content
+367,1179557,"exercises/hard/ex5-template-lyrics.js",241,1,"",javascript,content
+368,1180029,"exercises/hard/ex5-template-lyrics.js",241,0,"a",javascript,content
+369,1180186,"exercises/hard/ex5-template-lyrics.js",242,0,"t",javascript,content
+370,1180279,"exercises/hard/ex5-template-lyrics.js",243,0,"a",javascript,content
+371,1182077,"exercises/hard/ex5-template-lyrics.js",236,8,"songData",javascript,content
+371,1182077,"exercises/hard/ex5-template-lyrics.js",236,8,"songData",javascript,content
+372,1182078,"exercises/hard/ex5-template-lyrics.js",244,0,".",javascript,content
+373,1182412,"exercises/hard/ex5-template-lyrics.js",245,0,"t",javascript,content
+374,1182669,"exercises/hard/ex5-template-lyrics.js",246,0,"i",javascript,content
+375,1182915,"exercises/hard/ex5-template-lyrics.js",247,0,"t",javascript,content
+376,1183184,"exercises/hard/ex5-template-lyrics.js",248,0,"l",javascript,content
+377,1183479,"exercises/hard/ex5-template-lyrics.js",249,0,"e",javascript,content
+378,1223356,"exercises/hard/ex5-template-lyrics.js",251,0," ",javascript,content
+379,1224792,"exercises/hard/ex5-template-lyrics.js",252,0,"b",javascript,content
+380,1224952,"exercises/hard/ex5-template-lyrics.js",253,0,"y",javascript,content
+381,1225158,"exercises/hard/ex5-template-lyrics.js",254,0," ",javascript,content
+382,1236591,"exercises/hard/ex5-template-lyrics.js",255,0,"R",javascript,content
+383,1247716,"exercises/hard/ex5-template-lyrics.js",255,1,"",javascript,content
+384,1274156,"exercises/hard/ex5-template-lyrics.js",256,0,"\n  ",javascript,content
+385,1274943,"exercises/hard/ex5-template-lyrics.js",259,0,"r",javascript,content
+386,1275091,"exercises/hard/ex5-template-lyrics.js",260,0,"e",javascript,content
+387,1275200,"exercises/hard/ex5-template-lyrics.js",261,0,"t",javascript,content
+388,1275385,"exercises/hard/ex5-template-lyrics.js",262,0,"u",javascript,content
+389,1275453,"exercises/hard/ex5-template-lyrics.js",263,0,"r",javascript,content
+390,1275630,"exercises/hard/ex5-template-lyrics.js",264,0,"n",javascript,content
+391,1276022,"exercises/hard/ex5-template-lyrics.js",265,0," ",javascript,content
+392,1277012,"exercises/hard/ex5-template-lyrics.js",266,0,"\",javascript,content
+393,1277875,"exercises/hard/ex5-template-lyrics.js",266,1,"",javascript,content
+394,1278042,"exercises/hard/ex5-template-lyrics.js",265,1,"",javascript,content
+395,1278203,"exercises/hard/ex5-template-lyrics.js",264,1,"",javascript,content
+396,1278363,"exercises/hard/ex5-template-lyrics.js",263,1,"",javascript,content
+397,1278496,"exercises/hard/ex5-template-lyrics.js",262,1,"",javascript,content
+398,1278669,"exercises/hard/ex5-template-lyrics.js",261,1,"",javascript,content
+399,1278787,"exercises/hard/ex5-template-lyrics.js",260,1,"",javascript,content
+400,1278934,"exercises/hard/ex5-template-lyrics.js",259,1,"",javascript,content
+401,1289969,"exercises/hard/ex5-template-lyrics.js",255,0,"$",javascript,content
+402,1292402,"exercises/hard/ex5-template-lyrics.js",256,0,"{}",javascript,content
+403,1292759,"exercises/hard/ex5-template-lyrics.js",257,0,"s",javascript,content
+404,1293014,"exercises/hard/ex5-template-lyrics.js",258,0,"o",javascript,content
+405,1293377,"exercises/hard/ex5-template-lyrics.js",259,0,"n",javascript,content
+406,1293642,"exercises/hard/ex5-template-lyrics.js",260,0,"g",javascript,content
+407,1294160,"exercises/hard/ex5-template-lyrics.js",261,0,"F",javascript,content
+408,1294779,"exercises/hard/ex5-template-lyrics.js",261,1,"",javascript,content
+409,1295225,"exercises/hard/ex5-template-lyrics.js",261,0,"D",javascript,content
+410,1295425,"exercises/hard/ex5-template-lyrics.js",262,0,"a",javascript,content
+411,1295600,"exercises/hard/ex5-template-lyrics.js",263,0,"t",javascript,content
+412,1295712,"exercises/hard/ex5-template-lyrics.js",264,0,"a",javascript,content
+413,1296646,"exercises/hard/ex5-template-lyrics.js",257,8,"songData",javascript,content
+413,1296646,"exercises/hard/ex5-template-lyrics.js",257,8,"songData",javascript,content
+414,1296647,"exercises/hard/ex5-template-lyrics.js",265,0,".",javascript,content
+415,1297424,"exercises/hard/ex5-template-lyrics.js",266,0,"a",javascript,content
+416,1297766,"exercises/hard/ex5-template-lyrics.js",267,0,"r",javascript,content
+417,1297996,"exercises/hard/ex5-template-lyrics.js",268,0,"t",javascript,content
+418,1298387,"exercises/hard/ex5-template-lyrics.js",269,0,"i",javascript,content
+419,1298580,"exercises/hard/ex5-template-lyrics.js",270,0,"s",javascript,content
+420,1298738,"exercises/hard/ex5-template-lyrics.js",271,0,"t",javascript,content
+421,1305560,"exercises/hard/ex5-template-lyrics.js",273,0," ",javascript,content
+422,1310963,"exercises/hard/ex5-template-lyrics.js",274,0,"$",javascript,content
+423,1313210,"exercises/hard/ex5-template-lyrics.js",275,0,"{}",javascript,content
+424,1314104,"exercises/hard/ex5-template-lyrics.js",276,0,"s",javascript,content
+425,1314366,"exercises/hard/ex5-template-lyrics.js",277,0,"o",javascript,content
+426,1314613,"exercises/hard/ex5-template-lyrics.js",278,0,"n",javascript,content
+427,1314770,"exercises/hard/ex5-template-lyrics.js",279,0,"g",javascript,content
+428,1315197,"exercises/hard/ex5-template-lyrics.js",280,0,"D",javascript,content
+429,1315452,"exercises/hard/ex5-template-lyrics.js",281,0,"a",javascript,content
+430,1315613,"exercises/hard/ex5-template-lyrics.js",282,0,"t",javascript,content
+431,1315677,"exercises/hard/ex5-template-lyrics.js",283,0,"a",javascript,content
+432,1317314,"exercises/hard/ex5-template-lyrics.js",276,8,"songData",javascript,content
+432,1317314,"exercises/hard/ex5-template-lyrics.js",276,8,"songData",javascript,content
+433,1317315,"exercises/hard/ex5-template-lyrics.js",284,0,".",javascript,content
+434,1318053,"exercises/hard/ex5-template-lyrics.js",285,0,"v",javascript,content
+435,1318238,"exercises/hard/ex5-template-lyrics.js",286,0,"e",javascript,content
+436,1318376,"exercises/hard/ex5-template-lyrics.js",287,0,"r",javascript,content
+437,1318600,"exercises/hard/ex5-template-lyrics.js",288,0,"s",javascript,content
+438,1318814,"exercises/hard/ex5-template-lyrics.js",289,0,"e",javascript,content
+439,1321380,"exercises/hard/ex5-template-lyrics.js",291,0," ",javascript,content
+440,1325938,"exercises/hard/ex5-template-lyrics.js",292,0,"$",javascript,content
+441,1327438,"exercises/hard/ex5-template-lyrics.js",293,0,"{}",javascript,content
+442,1328248,"exercises/hard/ex5-template-lyrics.js",294,0,"s",javascript,content
+443,1328522,"exercises/hard/ex5-template-lyrics.js",295,0,"o",javascript,content
+444,1328715,"exercises/hard/ex5-template-lyrics.js",296,0,"n",javascript,content
+445,1328959,"exercises/hard/ex5-template-lyrics.js",297,0,"g",javascript,content
+446,1329251,"exercises/hard/ex5-template-lyrics.js",298,0,"D",javascript,content
+447,1329503,"exercises/hard/ex5-template-lyrics.js",299,0,"a",javascript,content
+448,1329660,"exercises/hard/ex5-template-lyrics.js",300,0,"t",javascript,content
+449,1329864,"exercises/hard/ex5-template-lyrics.js",301,0,"a",javascript,content
+450,1330819,"exercises/hard/ex5-template-lyrics.js",294,8,"songData",javascript,content
+450,1330819,"exercises/hard/ex5-template-lyrics.js",294,8,"songData",javascript,content
+451,1330820,"exercises/hard/ex5-template-lyrics.js",302,0,".",javascript,content
+452,1331578,"exercises/hard/ex5-template-lyrics.js",303,0,"c",javascript,content
+453,1331794,"exercises/hard/ex5-template-lyrics.js",304,0,"h",javascript,content
+454,1332070,"exercises/hard/ex5-template-lyrics.js",305,0,"o",javascript,content
+455,1332502,"exercises/hard/ex5-template-lyrics.js",306,0,"r",javascript,content
+456,1333201,"exercises/hard/ex5-template-lyrics.js",307,0,"u",javascript,content
+457,1333290,"exercises/hard/ex5-template-lyrics.js",308,0,"s",javascript,content
+458,1343962,"exercises/hard/ex5-template-lyrics.js",311,0,";",javascript,content
+459,1351934,"exercises/hard/ex5-template-lyrics.js",254,0,"\n  ",javascript,content
+460,1355200,"exercises/hard/ex5-template-lyrics.js",255,2,"",javascript,content
+461,1355357,"exercises/hard/ex5-template-lyrics.js",254,1,"",javascript,content
+462,1361038,"exercises/hard/ex5-template-lyrics.js",274,0,"\n  ",javascript,content
+463,1365215,"exercises/hard/ex5-template-lyrics.js",295,0,"\n  ",javascript,content
+464,1372234,"exercises/hard/ex7-player-class.js",0,0,"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n}\n\nmodule.exports = { Player, createPlayer };\n",javascript,tab
+465,1499380,"exercises/hard/ex7-player-class.js",261,0,"\n",javascript,content
+466,1499550,"exercises/hard/ex7-player-class.js",262,0,"c",javascript,content
+467,1499781,"exercises/hard/ex7-player-class.js",263,0,"l",javascript,content
+468,1499919,"exercises/hard/ex7-player-class.js",264,0,"a",javascript,content
+469,1500132,"exercises/hard/ex7-player-class.js",265,0,"s",javascript,content
+470,1500268,"exercises/hard/ex7-player-class.js",266,0,"s",javascript,content
+471,1500710,"exercises/hard/ex7-player-class.js",267,0," ",javascript,content
+472,1501852,"exercises/hard/ex7-player-class.js",267,1,"",javascript,content
+473,1502000,"exercises/hard/ex7-player-class.js",266,1,"",javascript,content
+474,1502172,"exercises/hard/ex7-player-class.js",265,1,"",javascript,content
+475,1502336,"exercises/hard/ex7-player-class.js",264,1,"",javascript,content
+476,1502452,"exercises/hard/ex7-player-class.js",263,1,"",javascript,content
+477,1502722,"exercises/hard/ex7-player-class.js",262,1,"",javascript,content
+478,1506102,"exercises/hard/ex7-player-class.js",125,0,"\n  ",javascript,content
+479,1506508,"exercises/hard/ex7-player-class.js",128,0,"\n  ",javascript,content
+479,1506508,"exercises/hard/ex7-player-class.js",128,0,"\n  ",javascript,content
+480,1506508,"exercises/hard/ex7-player-class.js",126,2,"",javascript,content
+481,1535765,"exercises/hard/ex7-player-class.js",129,0,"c",javascript,content
+482,1535949,"exercises/hard/ex7-player-class.js",130,0,"o",javascript,content
+483,1536138,"exercises/hard/ex7-player-class.js",131,0,"n",javascript,content
+484,1536560,"exercises/hard/ex7-player-class.js",132,0,"s",javascript,content
+485,1536762,"exercises/hard/ex7-player-class.js",133,0,"t",javascript,content
+486,1536995,"exercises/hard/ex7-player-class.js",134,0,"r",javascript,content
+487,1537259,"exercises/hard/ex7-player-class.js",135,0,"u",javascript,content
+488,1537311,"exercises/hard/ex7-player-class.js",136,0,"c",javascript,content
+489,1537515,"exercises/hard/ex7-player-class.js",137,0,"t",javascript,content
+490,1537763,"exercises/hard/ex7-player-class.js",138,0,"o",javascript,content
+491,1537901,"exercises/hard/ex7-player-class.js",139,0,"r",javascript,content
+492,1538897,"exercises/hard/ex7-player-class.js",140,0," ",javascript,content
+493,1540167,"exercises/hard/ex7-player-class.js",140,1,"",javascript,content
+494,1540918,"exercises/hard/ex7-player-class.js",140,0,"()",javascript,content
+495,1542075,"exercises/hard/ex7-player-class.js",141,0,"h",javascript,content
+496,1542152,"exercises/hard/ex7-player-class.js",142,0,"e",javascript,content
+497,1542367,"exercises/hard/ex7-player-class.js",143,0,"a",javascript,content
+498,1542530,"exercises/hard/ex7-player-class.js",144,0,"l",javascript,content
+499,1542827,"exercises/hard/ex7-player-class.js",145,0,"y",javascript,content
+499,1542827,"exercises/hard/ex7-player-class.js",145,0,"y",javascript,content
+500,1542828,"exercises/hard/ex7-player-class.js",146,0,"t",javascript,content
+501,1542956,"exercises/hard/ex7-player-class.js",147,0,"h",javascript,content
+502,1543448,"exercises/hard/ex7-player-class.js",147,1,"",javascript,content
+503,1543579,"exercises/hard/ex7-player-class.js",146,1,"",javascript,content
+504,1543692,"exercises/hard/ex7-player-class.js",145,1,"",javascript,content
+505,1544283,"exercises/hard/ex7-player-class.js",145,0,"t",javascript,content
+506,1544446,"exercises/hard/ex7-player-class.js",146,0,"h",javascript,content
+507,1546195,"exercises/hard/ex7-player-class.js",148,0,";",javascript,content
+508,1555739,"exercises/hard/ex7-player-class.js",148,1,"",javascript,content
+509,1556664,"exercises/hard/ex7-player-class.js",148,0," ",javascript,content
+510,1557536,"exercises/hard/ex7-player-class.js",149,0,"{}",javascript,content
+511,1558219,"exercises/hard/ex7-player-class.js",150,0,"\n    \n  ",javascript,content
+512,1564247,"exercises/hard/ex7-player-class.js",151,4,"",javascript,content
+512,1564247,"exercises/hard/ex7-player-class.js",151,4,"",javascript,content
+513,1564248,"exercises/hard/ex7-player-class.js",147,0,",",javascript,content
+514,1565427,"exercises/hard/ex7-player-class.js",148,0," ",javascript,content
+515,1565616,"exercises/hard/ex7-player-class.js",149,0,"w",javascript,content
+516,1565826,"exercises/hard/ex7-player-class.js",150,0,"e",javascript,content
+517,1566032,"exercises/hard/ex7-player-class.js",151,0,"a",javascript,content
+518,1566179,"exercises/hard/ex7-player-class.js",152,0,"p",javascript,content
+519,1566403,"exercises/hard/ex7-player-class.js",153,0,"o",javascript,content
+520,1567107,"exercises/hard/ex7-player-class.js",154,0,"n",javascript,content
+521,1567350,"exercises/hard/ex7-player-class.js",155,0,",",javascript,content
+522,1567548,"exercises/hard/ex7-player-class.js",156,0," ",javascript,content
+523,1567615,"exercises/hard/ex7-player-class.js",157,0,"s",javascript,content
+524,1567824,"exercises/hard/ex7-player-class.js",158,0,"p",javascript,content
+525,1567937,"exercises/hard/ex7-player-class.js",159,0,"p",javascript,content
+526,1568266,"exercises/hard/ex7-player-class.js",159,1,"",javascript,content
+527,1568422,"exercises/hard/ex7-player-class.js",159,0,"e",javascript,content
+528,1568572,"exercises/hard/ex7-player-class.js",160,0,"e",javascript,content
+529,1568751,"exercises/hard/ex7-player-class.js",161,0,"d",javascript,content
+530,1568907,"exercises/hard/ex7-player-class.js",162,0,",",javascript,content
+531,1569326,"exercises/hard/ex7-player-class.js",163,0," ",javascript,content
+532,1569561,"exercises/hard/ex7-player-class.js",164,0,"n",javascript,content
+533,1569643,"exercises/hard/ex7-player-class.js",165,0,"a",javascript,content
+534,1569773,"exercises/hard/ex7-player-class.js",166,0,"m",javascript,content
+535,1569896,"exercises/hard/ex7-player-class.js",167,0,"e",javascript,content
+536,1570214,"exercises/hard/ex7-player-class.js",168,0,",",javascript,content
+537,1570448,"exercises/hard/ex7-player-class.js",169,0," ",javascript,content
+538,1570609,"exercises/hard/ex7-player-class.js",170,0,"d",javascript,content
+539,1570822,"exercises/hard/ex7-player-class.js",171,0,"a",javascript,content
+540,1570945,"exercises/hard/ex7-player-class.js",172,0,"m",javascript,content
+541,1571036,"exercises/hard/ex7-player-class.js",173,0,"a",javascript,content
+542,1571237,"exercises/hard/ex7-player-class.js",174,0,"g",javascript,content
+542,1571237,"exercises/hard/ex7-player-class.js",174,0,"g",javascript,content
+543,1571238,"exercises/hard/ex7-player-class.js",175,0,"h",javascript,content
+544,1571740,"exercises/hard/ex7-player-class.js",175,1,"",javascript,content
+545,1571863,"exercises/hard/ex7-player-class.js",175,0,"e",javascript,content
+546,1576218,"exercises/hard/ex7-player-class.js",180,0,"    ",javascript,content
+547,1581118,"exercises/hard/ex7-player-class.js",184,0,"t",javascript,content
+548,1581292,"exercises/hard/ex7-player-class.js",185,0,"h",javascript,content
+549,1581491,"exercises/hard/ex7-player-class.js",186,0,"i",javascript,content
+550,1581588,"exercises/hard/ex7-player-class.js",187,0,"s",javascript,content
+551,1582239,"exercises/hard/ex7-player-class.js",184,4,"this",javascript,content
+551,1582239,"exercises/hard/ex7-player-class.js",184,4,"this",javascript,content
+552,1582240,"exercises/hard/ex7-player-class.js",188,0,".",javascript,content
+553,1582712,"exercises/hard/ex7-player-class.js",189,0," ",javascript,content
+554,1592569,"exercises/hard/ex7-player-class.js",189,1,"",javascript,content
+555,1600524,"exercises/hard/ex7-player-class.js",189,0,"h",javascript,content
+556,1600620,"exercises/hard/ex7-player-class.js",190,0,"e",javascript,content
+557,1600843,"exercises/hard/ex7-player-class.js",191,0,"a",javascript,content
+558,1601004,"exercises/hard/ex7-player-class.js",192,0,"l",javascript,content
+559,1601298,"exercises/hard/ex7-player-class.js",193,0,"t",javascript,content
+560,1601460,"exercises/hard/ex7-player-class.js",194,0,"h",javascript,content
+561,1603609,"exercises/hard/ex7-player-class.js",195,0," ",javascript,content
+562,1605032,"exercises/hard/ex7-player-class.js",196,0,"=",javascript,content
+563,1605457,"exercises/hard/ex7-player-class.js",197,0," ",javascript,content
+564,1610098,"exercises/hard/ex7-player-class.js",198,0,"h",javascript,content
+565,1610192,"exercises/hard/ex7-player-class.js",199,0,"e",javascript,content
+566,1610384,"exercises/hard/ex7-player-class.js",200,0,"a",javascript,content
+567,1610520,"exercises/hard/ex7-player-class.js",201,0,"l",javascript,content
+568,1610798,"exercises/hard/ex7-player-class.js",202,0,"t",javascript,content
+569,1610912,"exercises/hard/ex7-player-class.js",203,0,"h",javascript,content
+570,1611532,"exercises/hard/ex7-player-class.js",198,6,"health",javascript,content
+570,1611532,"exercises/hard/ex7-player-class.js",198,6,"health",javascript,content
+571,1611532,"exercises/hard/ex7-player-class.js",204,0,";",javascript,content
+572,1617299,"exercises/hard/ex7-player-class.js",205,0,"\n    ",javascript,content
+573,1617970,"exercises/hard/ex7-player-class.js",210,0,"this.health = health;",javascript,content
+574,1618434,"exercises/hard/ex7-player-class.js",231,0,"\n    ",javascript,content
+575,1618983,"exercises/hard/ex7-player-class.js",236,0,"this.health = health;",javascript,content
+576,1619342,"exercises/hard/ex7-player-class.js",257,0,"\n    ",javascript,content
+577,1619834,"exercises/hard/ex7-player-class.js",262,0,"this.health = health;",javascript,content
+578,1621245,"exercises/hard/ex7-player-class.js",283,0,"\n    ",javascript,content
+579,1622277,"exercises/hard/ex7-player-class.js",288,0,"this.health = health;",javascript,content
+580,1624853,"exercises/hard/ex7-player-class.js",220,1,"",javascript,content
+581,1625000,"exercises/hard/ex7-player-class.js",219,1,"",javascript,content
+582,1625150,"exercises/hard/ex7-player-class.js",218,1,"",javascript,content
+583,1625333,"exercises/hard/ex7-player-class.js",217,1,"",javascript,content
+584,1625484,"exercises/hard/ex7-player-class.js",216,1,"",javascript,content
+585,1625856,"exercises/hard/ex7-player-class.js",215,1,"",javascript,content
+586,1626262,"exercises/hard/ex7-player-class.js",215,0,"w",javascript,content
+587,1626517,"exercises/hard/ex7-player-class.js",216,0,"e",javascript,content
+588,1626725,"exercises/hard/ex7-player-class.js",217,0,"a",javascript,content
+589,1626863,"exercises/hard/ex7-player-class.js",218,0,"p",javascript,content
+590,1627055,"exercises/hard/ex7-player-class.js",219,0,"o",javascript,content
+591,1627266,"exercises/hard/ex7-player-class.js",220,0,"n",javascript,content
+592,1629308,"exercises/hard/ex7-player-class.js",229,1,"",javascript,content
+593,1629433,"exercises/hard/ex7-player-class.js",228,1,"",javascript,content
+594,1629578,"exercises/hard/ex7-player-class.js",227,1,"",javascript,content
+595,1629719,"exercises/hard/ex7-player-class.js",226,1,"",javascript,content
+596,1629854,"exercises/hard/ex7-player-class.js",225,1,"",javascript,content
+597,1630003,"exercises/hard/ex7-player-class.js",224,1,"",javascript,content
+598,1630165,"exercises/hard/ex7-player-class.js",224,0,"w",javascript,content
+599,1630392,"exercises/hard/ex7-player-class.js",225,0,"e",javascript,content
+600,1630559,"exercises/hard/ex7-player-class.js",226,0,"a",javascript,content
+601,1630770,"exercises/hard/ex7-player-class.js",227,0,"p",javascript,content
+602,1631048,"exercises/hard/ex7-player-class.js",228,0,"o",javascript,content
+603,1631313,"exercises/hard/ex7-player-class.js",229,0,"n",javascript,content
+604,1634516,"exercises/hard/ex7-player-class.js",255,1,"",javascript,content
+605,1634713,"exercises/hard/ex7-player-class.js",254,1,"",javascript,content
+606,1634813,"exercises/hard/ex7-player-class.js",253,1,"",javascript,content
+607,1634941,"exercises/hard/ex7-player-class.js",252,1,"",javascript,content
+608,1635079,"exercises/hard/ex7-player-class.js",251,1,"",javascript,content
+609,1635244,"exercises/hard/ex7-player-class.js",250,1,"",javascript,content
+610,1635472,"exercises/hard/ex7-player-class.js",250,0,"w",javascript,content
+611,1635667,"exercises/hard/ex7-player-class.js",251,0,"e",javascript,content
+612,1635909,"exercises/hard/ex7-player-class.js",252,0,"a",javascript,content
+613,1636000,"exercises/hard/ex7-player-class.js",253,0,"p",javascript,content
+614,1636174,"exercises/hard/ex7-player-class.js",254,0,"o",javascript,content
+615,1636374,"exercises/hard/ex7-player-class.js",255,0,"n",javascript,content
+616,1638487,"exercises/hard/ex7-player-class.js",246,1,"",javascript,content
+617,1638623,"exercises/hard/ex7-player-class.js",245,1,"",javascript,content
+618,1638777,"exercises/hard/ex7-player-class.js",244,1,"",javascript,content
+619,1638918,"exercises/hard/ex7-player-class.js",243,1,"",javascript,content
+620,1639042,"exercises/hard/ex7-player-class.js",242,1,"",javascript,content
+621,1639190,"exercises/hard/ex7-player-class.js",241,1,"",javascript,content
+622,1639397,"exercises/hard/ex7-player-class.js",241,0,"w",javascript,content
+623,1639698,"exercises/hard/ex7-player-class.js",242,0,"e",javascript,content
+624,1639937,"exercises/hard/ex7-player-class.js",243,0,"a",javascript,content
+625,1640325,"exercises/hard/ex7-player-class.js",244,0,"p",javascript,content
+626,1640518,"exercises/hard/ex7-player-class.js",245,0,"o",javascript,content
+627,1640709,"exercises/hard/ex7-player-class.js",246,0,"n",javascript,content
+628,1642795,"exercises/hard/ex7-player-class.js",246,1,"",javascript,content
+629,1642964,"exercises/hard/ex7-player-class.js",245,1,"",javascript,content
+630,1643144,"exercises/hard/ex7-player-class.js",244,1,"",javascript,content
+631,1643315,"exercises/hard/ex7-player-class.js",243,1,"",javascript,content
+632,1643476,"exercises/hard/ex7-player-class.js",242,1,"",javascript,content
+633,1643863,"exercises/hard/ex7-player-class.js",241,1,"",javascript,content
+634,1645280,"exercises/hard/ex7-player-class.js",241,0,"s",javascript,content
+635,1646059,"exercises/hard/ex7-player-class.js",242,0,"o",javascript,content
+636,1646440,"exercises/hard/ex7-player-class.js",243,0,"e",javascript,content
+637,1646734,"exercises/hard/ex7-player-class.js",243,1,"",javascript,content
+638,1646840,"exercises/hard/ex7-player-class.js",242,1,"",javascript,content
+639,1647347,"exercises/hard/ex7-player-class.js",242,0,"p",javascript,content
+640,1647434,"exercises/hard/ex7-player-class.js",243,0,"e",javascript,content
+641,1647591,"exercises/hard/ex7-player-class.js",244,0,"e",javascript,content
+642,1647766,"exercises/hard/ex7-player-class.js",245,0,"d",javascript,content
+643,1649702,"exercises/hard/ex7-player-class.js",254,1,"",javascript,content
+644,1649862,"exercises/hard/ex7-player-class.js",253,1,"",javascript,content
+645,1649965,"exercises/hard/ex7-player-class.js",252,1,"",javascript,content
+646,1650113,"exercises/hard/ex7-player-class.js",251,1,"",javascript,content
+647,1650251,"exercises/hard/ex7-player-class.js",250,1,"",javascript,content
+648,1650390,"exercises/hard/ex7-player-class.js",249,1,"",javascript,content
+649,1650797,"exercises/hard/ex7-player-class.js",249,0,"s",javascript,content
+650,1651066,"exercises/hard/ex7-player-class.js",250,0,"o",javascript,content
+651,1651152,"exercises/hard/ex7-player-class.js",251,0,"e",javascript,content
+652,1651300,"exercises/hard/ex7-player-class.js",252,0,"e",javascript,content
+653,1652107,"exercises/hard/ex7-player-class.js",252,1,"",javascript,content
+654,1652222,"exercises/hard/ex7-player-class.js",251,1,"",javascript,content
+655,1652555,"exercises/hard/ex7-player-class.js",250,1,"",javascript,content
+656,1652915,"exercises/hard/ex7-player-class.js",250,0,"p",javascript,content
+657,1652987,"exercises/hard/ex7-player-class.js",251,0,"e",javascript,content
+658,1653180,"exercises/hard/ex7-player-class.js",252,0,"e",javascript,content
+659,1653394,"exercises/hard/ex7-player-class.js",253,0,"d",javascript,content
+660,1659371,"exercises/hard/ex7-player-class.js",279,1,"",javascript,content
+661,1659555,"exercises/hard/ex7-player-class.js",278,1,"",javascript,content
+662,1659710,"exercises/hard/ex7-player-class.js",277,1,"",javascript,content
+663,1659822,"exercises/hard/ex7-player-class.js",276,1,"",javascript,content
+664,1659956,"exercises/hard/ex7-player-class.js",275,1,"",javascript,content
+665,1660257,"exercises/hard/ex7-player-class.js",274,1,"",javascript,content
+666,1660637,"exercises/hard/ex7-player-class.js",274,0,"n",javascript,content
+667,1660737,"exercises/hard/ex7-player-class.js",275,0,"a",javascript,content
+668,1660877,"exercises/hard/ex7-player-class.js",276,0,"m",javascript,content
+669,1660946,"exercises/hard/ex7-player-class.js",277,0,"e",javascript,content
+670,1662919,"exercises/hard/ex7-player-class.js",270,1,"",javascript,content
+671,1663052,"exercises/hard/ex7-player-class.js",269,1,"",javascript,content
+672,1663182,"exercises/hard/ex7-player-class.js",268,1,"",javascript,content
+673,1663322,"exercises/hard/ex7-player-class.js",267,1,"",javascript,content
+674,1663466,"exercises/hard/ex7-player-class.js",266,1,"",javascript,content
+675,1663604,"exercises/hard/ex7-player-class.js",265,1,"",javascript,content
+676,1664183,"exercises/hard/ex7-player-class.js",265,0,"n",javascript,content
+677,1664256,"exercises/hard/ex7-player-class.js",266,0,"a",javascript,content
+678,1664373,"exercises/hard/ex7-player-class.js",267,0,"m",javascript,content
+679,1664444,"exercises/hard/ex7-player-class.js",268,0,"e",javascript,content
+680,1666009,"exercises/hard/ex7-player-class.js",292,1,"",javascript,content
+681,1666152,"exercises/hard/ex7-player-class.js",291,1,"",javascript,content
+682,1666317,"exercises/hard/ex7-player-class.js",290,1,"",javascript,content
+683,1666435,"exercises/hard/ex7-player-class.js",289,1,"",javascript,content
+684,1666615,"exercises/hard/ex7-player-class.js",288,1,"",javascript,content
+685,1666865,"exercises/hard/ex7-player-class.js",287,1,"",javascript,content
+686,1667010,"exercises/hard/ex7-player-class.js",287,0,"d",javascript,content
+687,1667252,"exercises/hard/ex7-player-class.js",288,0,"a",javascript,content
+688,1667528,"exercises/hard/ex7-player-class.js",289,0,"m",javascript,content
+689,1667712,"exercises/hard/ex7-player-class.js",290,0,"a",javascript,content
+690,1667900,"exercises/hard/ex7-player-class.js",291,0,"g",javascript,content
+691,1668055,"exercises/hard/ex7-player-class.js",292,0,"e",javascript,content
+692,1670334,"exercises/hard/ex7-player-class.js",301,1,"",javascript,content
+693,1670485,"exercises/hard/ex7-player-class.js",300,1,"",javascript,content
+694,1670638,"exercises/hard/ex7-player-class.js",299,1,"",javascript,content
+695,1670769,"exercises/hard/ex7-player-class.js",298,1,"",javascript,content
+696,1670901,"exercises/hard/ex7-player-class.js",297,1,"",javascript,content
+697,1671069,"exercises/hard/ex7-player-class.js",296,1,"",javascript,content
+698,1671610,"exercises/hard/ex7-player-class.js",296,0,"d",javascript,content
+699,1671823,"exercises/hard/ex7-player-class.js",297,0,"a",javascript,content
+700,1672048,"exercises/hard/ex7-player-class.js",298,0,"m",javascript,content
+701,1672084,"exercises/hard/ex7-player-class.js",299,0,"a",javascript,content
+702,1672220,"exercises/hard/ex7-player-class.js",300,0,"g",javascript,content
+703,1672264,"exercises/hard/ex7-player-class.js",301,0,"e",javascript,content
+704,1682574,"exercises/hard/ex7-player-class.js",440,0,"\n  ",javascript,content
+705,1719812,"exercises/hard/ex7-player-class.js",443,0,"r",javascript,content
+706,1720022,"exercises/hard/ex7-player-class.js",444,0,"e",javascript,content
+707,1720174,"exercises/hard/ex7-player-class.js",445,0,"t",javascript,content
+708,1720352,"exercises/hard/ex7-player-class.js",446,0,"u",javascript,content
+709,1720433,"exercises/hard/ex7-player-class.js",447,0,"r",javascript,content
+710,1720666,"exercises/hard/ex7-player-class.js",448,0,"n",javascript,content
+711,1720923,"exercises/hard/ex7-player-class.js",449,0," ",javascript,content
+712,1732483,"exercises/hard/ex7-player-class.js",449,1,"",javascript,content
+713,1732642,"exercises/hard/ex7-player-class.js",448,1,"",javascript,content
+714,1732805,"exercises/hard/ex7-player-class.js",447,1,"",javascript,content
+715,1732915,"exercises/hard/ex7-player-class.js",446,1,"",javascript,content
+716,1733563,"exercises/hard/ex7-player-class.js",446,0,"u",javascript,content
+717,1733674,"exercises/hard/ex7-player-class.js",447,0,"r",javascript,content
+718,1733750,"exercises/hard/ex7-player-class.js",448,0,"n",javascript,content
+719,1746912,"exercises/hard/ex7-player-class.js",449,0," ",javascript,content
+720,1751324,"exercises/hard/ex7-player-class.js",450,0,"``",javascript,content
+721,1753310,"exercises/hard/ex7-player-class.js",451,0,"=",javascript,content
+722,1753639,"exercises/hard/ex7-player-class.js",451,1,"",javascript,content
+723,1753812,"exercises/hard/ex7-player-class.js",450,2,"",javascript,content
+724,1754505,"exercises/hard/ex7-player-class.js",450,0,"n",javascript,content
+725,1754672,"exercises/hard/ex7-player-class.js",451,0,"e",javascript,content
+726,1754898,"exercises/hard/ex7-player-class.js",452,0,"w",javascript,content
+727,1755167,"exercises/hard/ex7-player-class.js",453,0," ",javascript,content
+728,1770063,"exercises/hard/ex7-player-class.js",454,0,"P",javascript,content
+729,1770246,"exercises/hard/ex7-player-class.js",455,0,"l",javascript,content
+730,1770333,"exercises/hard/ex7-player-class.js",456,0,"a",javascript,content
+731,1770537,"exercises/hard/ex7-player-class.js",457,0,"y",javascript,content
+732,1770634,"exercises/hard/ex7-player-class.js",458,0,"e",javascript,content
+733,1770738,"exercises/hard/ex7-player-class.js",459,0,"r",javascript,content
+734,1774060,"exercises/hard/ex7-player-class.js",460,0," ",javascript,content
+735,1781294,"exercises/hard/ex7-player-class.js",461,0,"()",javascript,content
+736,1781738,"exercises/hard/ex7-player-class.js",462,0,"=",javascript,content
+737,1781973,"exercises/hard/ex7-player-class.js",462,1,"",javascript,content
+738,1782113,"exercises/hard/ex7-player-class.js",461,2,"",javascript,content
+739,1782466,"exercises/hard/ex7-player-class.js",460,1,"",javascript,content
+740,1782973,"exercises/hard/ex7-player-class.js",460,0," ",javascript,content
+741,1783360,"exercises/hard/ex7-player-class.js",461,0,"()",javascript,content
+742,1793779,"exercises/hard/ex7-player-class.js",462,0,"h",javascript,content
+743,1793864,"exercises/hard/ex7-player-class.js",463,0,"e",javascript,content
+744,1794093,"exercises/hard/ex7-player-class.js",464,0,"a",javascript,content
+745,1794270,"exercises/hard/ex7-player-class.js",465,0,"l",javascript,content
+746,1794717,"exercises/hard/ex7-player-class.js",466,0,"h",javascript,content
+747,1795300,"exercises/hard/ex7-player-class.js",466,1,"",javascript,content
+748,1795802,"exercises/hard/ex7-player-class.js",466,0,"t",javascript,content
+749,1795964,"exercises/hard/ex7-player-class.js",467,0,"h",javascript,content
+750,1798285,"exercises/hard/ex7-player-class.js",462,6,"health",javascript,content
+750,1798285,"exercises/hard/ex7-player-class.js",462,6,"health",javascript,content
+751,1798287,"exercises/hard/ex7-player-class.js",468,0,",",javascript,content
+752,1798617,"exercises/hard/ex7-player-class.js",469,0," ",javascript,content
+753,1800216,"exercises/hard/ex7-player-class.js",470,0,"w",javascript,content
+754,1800366,"exercises/hard/ex7-player-class.js",471,0,"e",javascript,content
+755,1800589,"exercises/hard/ex7-player-class.js",472,0,"a",javascript,content
+756,1800724,"exercises/hard/ex7-player-class.js",473,0,"p",javascript,content
+757,1801144,"exercises/hard/ex7-player-class.js",474,0,"o",javascript,content
+758,1801330,"exercises/hard/ex7-player-class.js",475,0,"n",javascript,content
+759,1801733,"exercises/hard/ex7-player-class.js",470,6,"weapon",javascript,content
+759,1801733,"exercises/hard/ex7-player-class.js",470,6,"weapon",javascript,content
+760,1801735,"exercises/hard/ex7-player-class.js",476,0,",",javascript,content
+761,1801922,"exercises/hard/ex7-player-class.js",477,0," ",javascript,content
+762,1801997,"exercises/hard/ex7-player-class.js",478,0,"s",javascript,content
+763,1802226,"exercises/hard/ex7-player-class.js",479,0,"p",javascript,content
+764,1802270,"exercises/hard/ex7-player-class.js",480,0,"e",javascript,content
+765,1802465,"exercises/hard/ex7-player-class.js",481,0,"e",javascript,content
+766,1802618,"exercises/hard/ex7-player-class.js",482,0,"d",javascript,content
+767,1802773,"exercises/hard/ex7-player-class.js",478,5,"speed",javascript,content
+767,1802773,"exercises/hard/ex7-player-class.js",478,5,"speed",javascript,content
+768,1802774,"exercises/hard/ex7-player-class.js",483,0,",",javascript,content
+769,1802949,"exercises/hard/ex7-player-class.js",484,0," ",javascript,content
+770,1803094,"exercises/hard/ex7-player-class.js",485,0,"n",javascript,content
+771,1803211,"exercises/hard/ex7-player-class.js",486,0,"a",javascript,content
+772,1803324,"exercises/hard/ex7-player-class.js",487,0,"m",javascript,content
+773,1803396,"exercises/hard/ex7-player-class.js",488,0,"e",javascript,content
+774,1804124,"exercises/hard/ex7-player-class.js",489,0,"m",javascript,content
+775,1804426,"exercises/hard/ex7-player-class.js",489,1,"",javascript,content
+776,1804680,"exercises/hard/ex7-player-class.js",485,4,"name",javascript,content
+776,1804680,"exercises/hard/ex7-player-class.js",485,4,"name",javascript,content
+777,1804680,"exercises/hard/ex7-player-class.js",489,0,",",javascript,content
+778,1804842,"exercises/hard/ex7-player-class.js",490,0," ",javascript,content
+779,1804894,"exercises/hard/ex7-player-class.js",491,0,"d",javascript,content
+780,1805119,"exercises/hard/ex7-player-class.js",492,0,"a",javascript,content
+781,1805204,"exercises/hard/ex7-player-class.js",493,0,"m",javascript,content
+782,1805297,"exercises/hard/ex7-player-class.js",494,0,"a",javascript,content
+783,1805417,"exercises/hard/ex7-player-class.js",495,0,"g",javascript,content
+784,1805509,"exercises/hard/ex7-player-class.js",496,0,"e",javascript,content
+785,1807419,"exercises/hard/ex7-player-class.js",498,0,";",javascript,content
+786,1815546,"exercises/hard/ex8-battle-simulation.js",0,0,"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n}\n\nmodule.exports = simulateBattle;\n",javascript,tab
+787,1867873,"exercises/hard/ex8-battle-simulation.js",242,0,"\n  ",javascript,content
+788,1867998,"exercises/hard/ex8-battle-simulation.js",245,0,"\n  ",javascript,content
+788,1867998,"exercises/hard/ex8-battle-simulation.js",245,0,"\n  ",javascript,content
+789,1867998,"exercises/hard/ex8-battle-simulation.js",243,2,"",javascript,content
+790,1873020,"exercises/hard/ex8-battle-simulation.js",246,0,"P",javascript,content
+791,1873221,"exercises/hard/ex8-battle-simulation.js",247,0,"l",javascript,content
+792,1873482,"exercises/hard/ex8-battle-simulation.js",248,0,"a",javascript,content
+793,1874166,"exercises/hard/ex8-battle-simulation.js",249,0,"y",javascript,content
+794,1874230,"exercises/hard/ex8-battle-simulation.js",250,0,"e",javascript,content
+795,1874384,"exercises/hard/ex8-battle-simulation.js",251,0,"r",javascript,content
+796,1874734,"exercises/hard/ex8-battle-simulation.js",252,0,"1",javascript,content
+797,1876063,"exercises/hard/ex8-battle-simulation.js",253,0," ",javascript,content
+798,1877839,"exercises/hard/ex8-battle-simulation.js",253,1,"",javascript,content
+799,1877980,"exercises/hard/ex8-battle-simulation.js",252,1,"",javascript,content
+800,1878110,"exercises/hard/ex8-battle-simulation.js",251,1,"",javascript,content
+801,1878350,"exercises/hard/ex8-battle-simulation.js",250,1,"",javascript,content
+802,1878532,"exercises/hard/ex8-battle-simulation.js",249,1,"",javascript,content
+803,1878707,"exercises/hard/ex8-battle-simulation.js",248,1,"",javascript,content
+804,1878804,"exercises/hard/ex8-battle-simulation.js",247,1,"",javascript,content
+805,1879156,"exercises/hard/ex8-battle-simulation.js",246,1,"",javascript,content
+806,1880293,"exercises/hard/ex8-battle-simulation.js",246,0,"p",javascript,content
+807,1880438,"exercises/hard/ex8-battle-simulation.js",247,0,"l",javascript,content
+808,1880569,"exercises/hard/ex8-battle-simulation.js",248,0,"a",javascript,content
+809,1880683,"exercises/hard/ex8-battle-simulation.js",249,0,"y",javascript,content
+810,1880778,"exercises/hard/ex8-battle-simulation.js",250,0,"e",javascript,content
+811,1880918,"exercises/hard/ex8-battle-simulation.js",251,0,"r",javascript,content
+812,1881188,"exercises/hard/ex8-battle-simulation.js",252,0,"1",javascript,content
+813,1884506,"exercises/hard/ex8-battle-simulation.js",253,0," ",javascript,content
+814,1914105,"exercises/hard/ex7-player-class.js",0,0,"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n\n  constructor(health, weapon, speed, name, damage) {\n    this.health = health;\n    this.weapon = weapon;\n    this.speed = speed;\n    this.name = name;\n    this.damage = damage;\n  }\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n  return new Player (health, weapon, speed, name, damage);\n}\n\n\nmodule.exports = { Player, createPlayer };\n",javascript,tab
+815,1927306,"exercises/hard/ex8-battle-simulation.js",0,0,"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n\n  player1 \n}\n\nmodule.exports = simulateBattle;\n",javascript,tab
+816,1930723,"exercises/hard/ex8-battle-simulation.js",254,0,"()",javascript,content
+817,1931762,"exercises/hard/ex8-battle-simulation.js",255,0,"h",javascript,content
+818,1931936,"exercises/hard/ex8-battle-simulation.js",256,0,"e",javascript,content
+819,1932199,"exercises/hard/ex8-battle-simulation.js",257,0,"a",javascript,content
+820,1932965,"exercises/hard/ex8-battle-simulation.js",257,1,"",javascript,content
+821,1933289,"exercises/hard/ex8-battle-simulation.js",256,1,"",javascript,content
+822,1933456,"exercises/hard/ex8-battle-simulation.js",255,1,"",javascript,content
+823,1947826,"exercises/hard/ex8-battle-simulation.js",255,0,"r",javascript,content
+824,1948486,"exercises/hard/ex8-battle-simulation.js",255,1,"",javascript,content
+825,1949398,"exercises/hard/ex8-battle-simulation.js",255,0,"h",javascript,content
+826,1949480,"exercises/hard/ex8-battle-simulation.js",256,0,"e",javascript,content
+827,1949743,"exercises/hard/ex8-battle-simulation.js",257,0,"a",javascript,content
+828,1949960,"exercises/hard/ex8-battle-simulation.js",258,0,"l",javascript,content
+829,1950282,"exercises/hard/ex8-battle-simulation.js",259,0,"t",javascript,content
+830,1950455,"exercises/hard/ex8-battle-simulation.js",260,0,"h",javascript,content
+831,1953495,"exercises/hard/ex7-player-class.js",0,0,"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n\n  constructor(health, weapon, speed, name, damage) {\n    this.health = health;\n    this.weapon = weapon;\n    this.speed = speed;\n    this.name = name;\n    this.damage = damage;\n  }\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n  return new Player (health, weapon, speed, name, damage);\n}\n\n\nmodule.exports = { Player, createPlayer };\n",javascript,tab
+832,1955610,"exercises/hard/ex8-battle-simulation.js",0,0,"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n\n  player1 (health)\n}\n\nmodule.exports = simulateBattle;\n",javascript,tab
+833,1958445,"exercises/hard/ex8-battle-simulation.js",261,0,",",javascript,content
+834,1958631,"exercises/hard/ex8-battle-simulation.js",262,0," ",javascript,content
+835,1958744,"exercises/hard/ex8-battle-simulation.js",263,0,"d",javascript,content
+836,1959037,"exercises/hard/ex8-battle-simulation.js",264,0,"a",javascript,content
+837,1959209,"exercises/hard/ex8-battle-simulation.js",265,0,"m",javascript,content
+838,1959292,"exercises/hard/ex8-battle-simulation.js",266,0,"a",javascript,content
+839,1959464,"exercises/hard/ex8-battle-simulation.js",267,0,"g",javascript,content
+839,1959464,"exercises/hard/ex8-battle-simulation.js",267,0,"g",javascript,content
+840,1959465,"exercises/hard/ex8-battle-simulation.js",268,0,"h",javascript,content
+841,1959525,"exercises/hard/ex8-battle-simulation.js",269,0,"e",javascript,content
+842,1960001,"exercises/hard/ex8-battle-simulation.js",269,1,"",javascript,content
+843,1960145,"exercises/hard/ex8-battle-simulation.js",268,1,"",javascript,content
+844,1960229,"exercises/hard/ex8-battle-simulation.js",268,0,"e",javascript,content
+845,1960301,"exercises/hard/ex8-battle-simulation.js",269,0,"a",javascript,content
+846,1960823,"exercises/hard/ex8-battle-simulation.js",269,1,"",javascript,content
+847,1961612,"exercises/hard/ex8-battle-simulation.js",268,1,"",javascript,content
+848,1961767,"exercises/hard/ex8-battle-simulation.js",267,1,"",javascript,content
+849,1961906,"exercises/hard/ex8-battle-simulation.js",266,1,"",javascript,content
+850,1962068,"exercises/hard/ex8-battle-simulation.js",265,1,"",javascript,content
+851,1962186,"exercises/hard/ex8-battle-simulation.js",264,1,"",javascript,content
+852,1962314,"exercises/hard/ex8-battle-simulation.js",263,1,"",javascript,content
+853,1962464,"exercises/hard/ex8-battle-simulation.js",262,1,"",javascript,content
+854,1962592,"exercises/hard/ex8-battle-simulation.js",261,1,"",javascript,content
+855,1990197,"exercises/hard/ex7-player-class.js",0,0,"class Player {\n  // Create a Player class with properties:\n  // - health\n  // - weapon\n  // - speed\n  // - name\n  // - damage\n\n  constructor(health, weapon, speed, name, damage) {\n    this.health = health;\n    this.weapon = weapon;\n    this.speed = speed;\n    this.name = name;\n    this.damage = damage;\n  }\n}\n\nfunction createPlayer(name, health, weapon, speed, damage) {\n  // Create and return a new Player object with the given properties\n  return new Player (health, weapon, speed, name, damage);\n}\n\n\nmodule.exports = { Player, createPlayer };\n",javascript,tab
+856,1993059,"exercises/hard/ex8-battle-simulation.js",0,0,"function simulateBattle(player1, player2) {\n  /* take two player objects and simulate them attacking each other\n   return an object with the updated health of both players after one round\n  example: { player1Health: 80, player2Health: 70 } */\n\n  player1 (health)\n}\n\nmodule.exports = simulateBattle;\n",javascript,tab
+857,2023032,"exercises/hard/ex8-battle-simulation.js",246,16,"r",javascript,content
+858,2023249,"exercises/hard/ex8-battle-simulation.js",247,0,"t",javascript,content
+859,2023356,"exercises/hard/ex8-battle-simulation.js",248,0,"e",javascript,content
+860,2023474,"exercises/hard/ex8-battle-simulation.js",249,0,"u",javascript,content
+861,2023540,"exercises/hard/ex8-battle-simulation.js",250,0,"e",javascript,content
+862,2023660,"exercises/hard/ex8-battle-simulation.js",251,0,"n",javascript,content
+863,2024044,"exercises/hard/ex8-battle-simulation.js",251,1,"",javascript,content
+864,2024163,"exercises/hard/ex8-battle-simulation.js",250,1,"",javascript,content
+865,2024290,"exercises/hard/ex8-battle-simulation.js",249,1,"",javascript,content
+866,2024411,"exercises/hard/ex8-battle-simulation.js",248,1,"",javascript,content
+867,2024820,"exercises/hard/ex8-battle-simulation.js",247,1,"",javascript,content
+868,2024989,"exercises/hard/ex8-battle-simulation.js",247,0,"e",javascript,content
+869,2025560,"exercises/hard/ex8-battle-simulation.js",248,0,"t",javascript,content
+870,2025734,"exercises/hard/ex8-battle-simulation.js",249,0,"u",javascript,content
+871,2025868,"exercises/hard/ex8-battle-simulation.js",250,0,"r",javascript,content
+872,2025985,"exercises/hard/ex8-battle-simulation.js",251,0,"n",javascript,content
+873,2031326,"exercises/hard/ex8-battle-simulation.js",252,0," ",javascript,content
+874,2032203,"exercises/hard/ex8-battle-simulation.js",253,0,"()",javascript,content
+875,2033737,"exercises/hard/ex8-battle-simulation.js",254,0,"o",javascript,content
+876,2033980,"exercises/hard/ex8-battle-simulation.js",255,0,"b",javascript,content
+877,2034917,"exercises/hard/ex8-battle-simulation.js",255,1,"",javascript,content
+878,2035049,"exercises/hard/ex8-battle-simulation.js",254,1,"",javascript,content
+879,2035428,"exercises/hard/ex8-battle-simulation.js",253,2,"",javascript,content
+880,2037207,"exercises/hard/ex8-battle-simulation.js",253,0,"{}",javascript,content
+881,2038135,"exercises/hard/ex8-battle-simulation.js",254,0,"\n    \n  ",javascript,content
+882,2044031,"exercises/hard/ex8-battle-simulation.js",259,0,"h",javascript,content
+883,2044136,"exercises/hard/ex8-battle-simulation.js",260,0,"e",javascript,content
+884,2044585,"exercises/hard/ex8-battle-simulation.js",260,1,"",javascript,content
+885,2044735,"exercises/hard/ex8-battle-simulation.js",259,1,"",javascript,content
+886,2047049,"exercises/hard/ex8-battle-simulation.js",259,0,"p",javascript,content
+887,2047222,"exercises/hard/ex8-battle-simulation.js",260,0,"l",javascript,content
+888,2047347,"exercises/hard/ex8-battle-simulation.js",261,0,"a",javascript,content
+889,2047477,"exercises/hard/ex8-battle-simulation.js",262,0,"y",javascript,content
+890,2047612,"exercises/hard/ex8-battle-simulation.js",263,0,"e",javascript,content
+891,2047731,"exercises/hard/ex8-battle-simulation.js",264,0,"r",javascript,content
+892,2048083,"exercises/hard/ex8-battle-simulation.js",265,0,"1",javascript,content
+893,2048522,"exercises/hard/ex8-battle-simulation.js",266,0," ",javascript,content
+894,2067910,"exercises/hard/ex8-battle-simulation.js",266,1,"",javascript,content
+895,2068173,"exercises/hard/ex8-battle-simulation.js",266,0,".",javascript,content
+896,2068707,"exercises/hard/ex8-battle-simulation.js",267,0,"h",javascript,content
+897,2068820,"exercises/hard/ex8-battle-simulation.js",268,0,"e",javascript,content
+898,2069065,"exercises/hard/ex8-battle-simulation.js",269,0,"q",javascript,content
+899,2069677,"exercises/hard/ex8-battle-simulation.js",269,1,"",javascript,content
+900,2069745,"exercises/hard/ex8-battle-simulation.js",269,0,"a",javascript,content
+901,2069931,"exercises/hard/ex8-battle-simulation.js",270,0,";",javascript,content
+902,2070622,"exercises/hard/ex8-battle-simulation.js",270,1,"",javascript,content
+903,2071207,"exercises/hard/ex8-battle-simulation.js",270,0,"l",javascript,content
+904,2071525,"exercises/hard/ex8-battle-simulation.js",271,0,"t",javascript,content
+905,2071716,"exercises/hard/ex8-battle-simulation.js",272,0,"h",javascript,content
+906,2071889,"exercises/hard/ex8-battle-simulation.js",273,0," ",javascript,content
+907,2072504,"exercises/hard/ex8-battle-simulation.js",274,0,"-",javascript,content
+908,2072702,"exercises/hard/ex8-battle-simulation.js",275,0," ",javascript,content
+909,2073297,"exercises/hard/ex8-battle-simulation.js",276,0,"p",javascript,content
+910,2073439,"exercises/hard/ex8-battle-simulation.js",277,0,"l",javascript,content
+911,2073545,"exercises/hard/ex8-battle-simulation.js",278,0,"a",javascript,content
+912,2073710,"exercises/hard/ex8-battle-simulation.js",279,0,"y",javascript,content
+913,2073810,"exercises/hard/ex8-battle-simulation.js",280,0,"e",javascript,content
+914,2073961,"exercises/hard/ex8-battle-simulation.js",281,0,"r",javascript,content
+915,2074202,"exercises/hard/ex8-battle-simulation.js",282,0,"2",javascript,content
+916,2074475,"exercises/hard/ex8-battle-simulation.js",276,7,"player2",javascript,content
+916,2074475,"exercises/hard/ex8-battle-simulation.js",276,7,"player2",javascript,content
+917,2074476,"exercises/hard/ex8-battle-simulation.js",283,0,",",javascript,content
+918,2075103,"exercises/hard/ex8-battle-simulation.js",283,1,"",javascript,content
+919,2075429,"exercises/hard/ex8-battle-simulation.js",283,0,".",javascript,content
+920,2075589,"exercises/hard/ex8-battle-simulation.js",284,0,"d",javascript,content
+921,2076024,"exercises/hard/ex8-battle-simulation.js",285,0,"m",javascript,content
+922,2076119,"exercises/hard/ex8-battle-simulation.js",286,0,"a",javascript,content
+923,2076627,"exercises/hard/ex8-battle-simulation.js",286,1,"",javascript,content
+924,2076737,"exercises/hard/ex8-battle-simulation.js",285,1,"",javascript,content
+925,2076867,"exercises/hard/ex8-battle-simulation.js",285,0,"a",javascript,content
+926,2077029,"exercises/hard/ex8-battle-simulation.js",286,0,"m",javascript,content
+927,2077110,"exercises/hard/ex8-battle-simulation.js",287,0,"a",javascript,content
+928,2077356,"exercises/hard/ex8-battle-simulation.js",288,0,"g",javascript,content
+929,2077438,"exercises/hard/ex8-battle-simulation.js",289,0,"e",javascript,content
+930,2088342,"exercises/hard/ex8-battle-simulation.js",290,0,".",javascript,content
+931,2088913,"exercises/hard/ex8-battle-simulation.js",290,1,"",javascript,content
+932,2089174,"exercises/hard/ex8-battle-simulation.js",290,0,",",javascript,content
+933,2089439,"exercises/hard/ex8-battle-simulation.js",291,0," ",javascript,content
+934,2090791,"exercises/hard/ex8-battle-simulation.js",292,0,"p",javascript,content
+935,2091034,"exercises/hard/ex8-battle-simulation.js",293,0,"l",javascript,content
+936,2091235,"exercises/hard/ex8-battle-simulation.js",294,0,"a",javascript,content
+937,2091635,"exercises/hard/ex8-battle-simulation.js",295,0,"y",javascript,content
+938,2091837,"exercises/hard/ex8-battle-simulation.js",296,0,"e",javascript,content
+939,2092045,"exercises/hard/ex8-battle-simulation.js",297,0,"r",javascript,content
+940,2093986,"exercises/hard/ex8-battle-simulation.js",298,0,"2",javascript,content
+941,2094809,"exercises/hard/ex8-battle-simulation.js",299,0,".",javascript,content
+942,2098396,"exercises/hard/ex8-battle-simulation.js",300,0,"h",javascript,content
+943,2098510,"exercises/hard/ex8-battle-simulation.js",301,0,"e",javascript,content
+944,2098737,"exercises/hard/ex8-battle-simulation.js",302,0,"a",javascript,content
+945,2098899,"exercises/hard/ex8-battle-simulation.js",303,0,"l",javascript,content
+946,2099186,"exercises/hard/ex8-battle-simulation.js",304,0,"t",javascript,content
+947,2099390,"exercises/hard/ex8-battle-simulation.js",305,0,"h",javascript,content
+948,2099856,"exercises/hard/ex8-battle-simulation.js",306,0," ",javascript,content
+949,2100561,"exercises/hard/ex8-battle-simulation.js",307,0,"-",javascript,content
+950,2100848,"exercises/hard/ex8-battle-simulation.js",308,0," ",javascript,content
+951,2101069,"exercises/hard/ex8-battle-simulation.js",309,0,"p",javascript,content
+952,2101314,"exercises/hard/ex8-battle-simulation.js",310,0,"k",javascript,content
+953,2101813,"exercises/hard/ex8-battle-simulation.js",310,1,"",javascript,content
+954,2102100,"exercises/hard/ex8-battle-simulation.js",310,0,"l",javascript,content
+955,2102152,"exercises/hard/ex8-battle-simulation.js",311,0,"a",javascript,content
+956,2102357,"exercises/hard/ex8-battle-simulation.js",312,0,"y",javascript,content
+957,2102442,"exercises/hard/ex8-battle-simulation.js",313,0,"e",javascript,content
+958,2102546,"exercises/hard/ex8-battle-simulation.js",314,0,"r",javascript,content
+959,2102843,"exercises/hard/ex8-battle-simulation.js",315,0,"1",javascript,content
+960,2103632,"exercises/hard/ex8-battle-simulation.js",309,7,"player1",javascript,content
+960,2103632,"exercises/hard/ex8-battle-simulation.js",309,7,"player1",javascript,content
+961,2103632,"exercises/hard/ex8-battle-simulation.js",316,0,".",javascript,content
+962,2103903,"exercises/hard/ex8-battle-simulation.js",317,0,"d",javascript,content
+963,2104189,"exercises/hard/ex8-battle-simulation.js",318,0,"a",javascript,content
+964,2104443,"exercises/hard/ex8-battle-simulation.js",319,0,"m",javascript,content
+965,2104546,"exercises/hard/ex8-battle-simulation.js",320,0,"a",javascript,content
+966,2104740,"exercises/hard/ex8-battle-simulation.js",321,0,"g",javascript,content
+967,2105217,"exercises/hard/ex8-battle-simulation.js",322,0,"e",javascript,content
+968,2105695,"exercises/hard/ex8-battle-simulation.js",323,0,";",javascript,content
+969,2127375,"exercises/hard/ex8-battle-simulation.js",323,1,"",javascript,content
+970,2311267,"exercises/hard/ex8-battle-simulation.js",259,0,"p",javascript,content
+971,2311507,"exercises/hard/ex8-battle-simulation.js",260,0,"l",javascript,content
+972,2311743,"exercises/hard/ex8-battle-simulation.js",261,0,"a",javascript,content
+973,2311986,"exercises/hard/ex8-battle-simulation.js",262,0,"y",javascript,content
+974,2312246,"exercises/hard/ex8-battle-simulation.js",263,0,"e",javascript,content
+975,2312501,"exercises/hard/ex8-battle-simulation.js",264,0,"r",javascript,content
+976,2313919,"exercises/hard/ex8-battle-simulation.js",265,0,"1",javascript,content
+977,2314901,"exercises/hard/ex8-battle-simulation.js",266,0,"H",javascript,content
+978,2315483,"exercises/hard/ex8-battle-simulation.js",267,0,"P",javascript,content
+979,2320830,"exercises/hard/ex8-battle-simulation.js",268,0,"[",javascript,content
+980,2326885,"exercises/hard/ex8-battle-simulation.js",268,1,"",javascript,content
+981,2327853,"exercises/hard/ex8-battle-simulation.js",268,0,";",javascript,content
+982,2328746,"exercises/hard/ex8-battle-simulation.js",268,1,"",javascript,content
+983,2329523,"exercises/hard/ex8-battle-simulation.js",268,0,":",javascript,content
+984,2336203,"exercises/hard/ex8-battle-simulation.js",302,0,"p",javascript,content
+985,2336379,"exercises/hard/ex8-battle-simulation.js",303,0,"l",javascript,content
+986,2336512,"exercises/hard/ex8-battle-simulation.js",304,0,"a",javascript,content
+987,2336628,"exercises/hard/ex8-battle-simulation.js",305,0,"y",javascript,content
+988,2336947,"exercises/hard/ex8-battle-simulation.js",306,0,"e",javascript,content
+989,2337567,"exercises/hard/ex8-battle-simulation.js",307,0,"r",javascript,content
+990,2337831,"exercises/hard/ex8-battle-simulation.js",308,0,"2",javascript,content
+991,2338698,"exercises/hard/ex8-battle-simulation.js",309,0,"H",javascript,content
+992,2339077,"exercises/hard/ex8-battle-simulation.js",310,0,"P",javascript,content
+993,2340140,"exercises/hard/ex8-battle-simulation.js",311,0,";",javascript,content
+994,2340448,"exercises/hard/ex8-battle-simulation.js",312,0,"=",javascript,content
+995,2340898,"exercises/hard/ex8-battle-simulation.js",312,1,"",javascript,content
+996,2341049,"exercises/hard/ex8-battle-simulation.js",311,1,"",javascript,content
+997,2341971,"exercises/hard/ex8-battle-simulation.js",311,0,":",javascript,content
+998,2353436,"tests/hard/ex5.test.js",0,0,"const createLyrics = require('../../exercises/hard/ex5-template-lyrics');\n\ndescribe('Template Literals Lyrics function', () => {\n  test('should create lyrics using template literals', () => {\n    const songData = {\n      artist: 'Test Artist',\n      title: 'Test Song',\n      verse: 'This is a test verse',\n      chorus: 'This is a test chorus'\n    };\n    \n    const result = createLyrics(songData);\n    \n    expect(result).toContain(songData.artist);\n    expect(result).toContain(songData.title);\n    expect(result).toContain(songData.verse);\n    expect(result).toContain(songData.chorus);\n    \n    const functionString = createLyrics.toString();\n    expect(functionString).toMatch(/`.*\${.*}.*`/s);\n  });\n});\n",javascript,tab
+999,2377477,"tests/hard/ex7.test.js",0,0,"const { Player, createPlayer } = require('../../exercises/hard/ex7-player-class');\n\ndescribe('Player Class', () => {\n  test('should create a player with all required properties', () => {\n    const player = new Player('Hero', 100, 'Sword', 10, 25);\n    \n    expect(player.name).toBe('Hero');\n    expect(player.health).toBe(100);\n    expect(player.weapon).toBe('Sword');\n    expect(player.speed).toBe(10);\n    expect(player.damage).toBe(25);\n  });\n  \n  test('createPlayer function should return a Player instance', () => {\n    const player = createPlayer('Villain', 80, 'Axe', 8, 30);\n    \n    expect(player instanceof Player).toBe(true);\n    expect(player.name).toBe('Villain');\n    expect(player.health).toBe(80);\n    expect(player.weapon).toBe('Axe');\n    expect(player.speed).toBe(8);\n    expect(player.damage).toBe(30);\n  });\n});\n",javascript,tab
+1000,2378886,"tests/hard/ex5.test.js",0,0,"const createLyrics = require('../../exercises/hard/ex5-template-lyrics');\n\ndescribe('Template Literals Lyrics function', () => {\n  test('should create lyrics using template literals', () => {\n    const songData = {\n      artist: 'Test Artist',\n      title: 'Test Song',\n      verse: 'This is a test verse',\n      chorus: 'This is a test chorus'\n    };\n    \n    const result = createLyrics(songData);\n    \n    expect(result).toContain(songData.artist);\n    expect(result).toContain(songData.title);\n    expect(result).toContain(songData.verse);\n    expect(result).toContain(songData.chorus);\n    \n    const functionString = createLyrics.toString();\n    expect(functionString).toMatch(/`.*\${.*}.*`/s);\n  });\n});\n",javascript,tab
+1001,2380110,"tests/hard/ex8.test.js",0,0,"const simulateBattle = require('../../exercises/hard/ex8-battle-simulation');\n\ndescribe('Battle Simulation function', () => {\n  test('should reduce health of both players based on damage', () => {\n    const player1 = { name: 'Hero', health: 100, damage: 20, weapon: 'Sword', speed: 10 };\n    const player2 = { name: 'Enemy', health: 80, damage: 15, weapon: 'Axe', speed: 8 };\n    \n    const result = simulateBattle(player1, player2);\n    \n    expect(result).toHaveProperty('player1Health');\n    expect(result).toHaveProperty('player2Health');\n    expect(result.player1Health).toBe(85); // 100 - 15\n    expect(result.player2Health).toBe(60); // 80 - 20\n  });\n});\n",javascript,tab
